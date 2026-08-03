@@ -1,0 +1,38 @@
+# Customise this file — no code changes needed for most tweaks.
+
+# Keywords used to pre-filter general-news feeds (Business Standard's "top
+# stories" feed covers all topics, so we keep only market-relevant items
+# before spending an AI call on them). Market-specific feeds (ET Markets,
+# Moneycontrol) skip this filter — see scraper/main.py SOURCES list.
+filters:
+  required_keywords:
+    - "sensex"
+    - "nifty"
+    - "bse"
+    - "nse"
+    - "share market"
+    - "stock market"
+    - "rupee"
+    - "rbi"
+    - "fii"
+    - "dii"
+    - "ipo"
+    - "market cap"
+    - "equity"
+    - "crude oil"
+    - "gift nifty"
+  blocked_keywords: []
+
+# Only consider headlines published within this many hours — keeps each run
+# focused on "today's" news instead of re-processing stale feed items.
+freshness_hours: 20
+
+ai:
+  enabled: true
+  model: "gemini-2.5-flash"
+  rate_limit_seconds: 7
+  batch_size: 8          # headlines per AI call
+  max_output_tokens: 2048
+
+output:
+  timezone: "Asia/Kolkata"
