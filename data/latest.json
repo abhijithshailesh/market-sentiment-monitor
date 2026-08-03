@@ -1,0 +1,561 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T06:00:01.613815Z",
+  "overall_sentiment": "mixed",
+  "summary": "Indian stock markets are experiencing a mixed session with the Sensex surging and Nifty crossing key milestones, largely driven by strong Q1 corporate earnings and positive brokerage upgrades for major stocks like ITC and Bajaj Finserv. However, overall sentiment remains somewhat tempered by a cooling IPO market, a five-year low in July factory growth, and cautious global cues as investors await key US jobs data. While strong tech momentum and positive technical breakouts offer an underlying bullish push, domestic economic headwinds and a predominantly neutral headline count suggest a selective, stock-specific market mood for retail investors.",
+  "bullish_count": 8,
+  "bearish_count": 1,
+  "neutral_count": 52,
+  "headline_count": 61,
+  "headlines": [
+    {
+      "title": "Global Market: Japan stocks slide as stronger Yen hits exporters; Nikkei drops Over 2%",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-stronger-yen-hits-exporters-nikkei-drops-over-2/articleshow/132820004.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T05:34:27+00:00",
+      "summary": "Japanese stocks tumbled as a sharp rally in the yen weighed on export-oriented companies, with the Nikkei falling over 2%. Auto and chip stocks led the declines, although SoftBank, Lasertec and Kioxia outperformed. Investors are now watching for further currency intervention and its impact on corpor",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Zee shares tumble 12% after Sebi action against Subhash Chandra, Punit Goenka",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zeel-shares-tumble-12-after-sebi-action-against-subhash-chandra-punit-goenka/articleshow/132819918.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T05:31:13+00:00",
+      "summary": "Zee Entertainment shares plunged over 12% after Sebi barred founder Subhash Chandra and CEO Punit Goenka from the securities market for one year over an unauthorised property pledge case. The regulator also fined ZEEL and flagged governance lapses, even as shareholders recently approved a Rs 3,144 c",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "GAIL India shares tumble 5% despite Q1 net profit doubling to Rs 4,665 crore. Buy, sell or hold?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gail-india-shares-tumble-5-despite-q1-net-profit-doubling-to-rs-4665-crore-buy-sell-or-hold/articleshow/132819846.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T05:26:54+00:00",
+      "summary": "GAIL India shares fell 5% despite the Maharatna PSU reporting a near doubling of Q1 FY27 consolidated net profit to Rs 4,665 crore. While JM Financial attributed the earnings beat to one-off gains in gas trading, it retained its 'Buy' rating and raised the target price to Rs 210, citing strong mediu",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Rupee climbs to one-month peak of 95.13 vs USD on oil slump, stronger inflows",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-peak-on-oil-slump-stronger-inflows/articleshow/132819760.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T05:20:57+00:00",
+      "summary": "The Indian rupee reached a one-month high as oil prices declined and foreign inflows increased.  The Reserve Bank of India is expected to maintain current interest rates this week.  Analysts anticipate a cautious policy statement from the central bank regarding inflation.  Oil prices fell significan",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Blue Dart Express shares surge 7% after Q1 results. Here's why Nuvama retains Buy, raises target",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/blue-dart-express-shares-surge-7-after-q1-results-heres-why-nuvama-retains-buy-raises-target/articleshow/132819599.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T05:08:29+00:00",
+      "summary": "Blue Dart Express shares jumped nearly 7% after the logistics company reported a strong Q1 FY27 performance, driven by robust profit growth and margin expansion. Following the results, Nuvama retained its 'Buy' rating, raised its target price to Rs 7,350, and said the company is well placed to benef",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "HFCL shares rebound 5% on Rs 523 crore order win. Still time to buy after 195% rally in 6 months?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rebound-5-on-rs-523-crore-order-win-still-time-to-buy-after-195-rally-in-6-months/articleshow/132819248.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:48:13+00:00",
+      "summary": "HFCL shares rose sharply on Monday after the company secured an international order worth Rs 522.73 crore, extending investor optimism around the telecom equipment maker. The stock has rallied 195% in six months, while brokerages remain bullish, citing strong order visibility, AI data centre opportu",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Global Market: China's central bank vows timely policy adjustments, backs panda bond market",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-central-bank-vows-timely-policy-adjustments-backs-panda-bond-market/articleshow/132819048.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:38:04+00:00",
+      "summary": "China's central bank has pledged to adjust its monetary policy tools in a timely manner while maintaining an appropriately loose policy stance to support the economy. The PBOC also reaffirmed its commitment to ensuring ample liquidity, deepening financial market reforms and addressing local governme",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Maruti Suzuki shares decline over 2% after Q1. Morgan Stanley, Motilal Oswal decode the road ahead",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-decline-over-2-after-q1-morgan-stanley-motilal-oswal-decode-the-road-ahead/articleshow/132818801.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:27:03+00:00",
+      "summary": "Maruti Suzuki shares fell over 2% after the automaker reported an 11% YoY decline in June-quarter standalone net profit, even as revenue rose 36% and sales volumes hit a record high. While Nomura retained a Neutral rating citing margin risks, Motilal Oswal reiterated its Buy call, expecting market s",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Global Market: Japan, US confirm coordinated yen intervention to stem currency slide",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-us-confirm-coordinated-yen-intervention-to-stem-currency-slide/articleshow/132818469.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:17:56+00:00",
+      "summary": "Japan's finance ministry confirmed that Tokyo and Washington jointly intervened in currency markets to support the yen for the first time since 2011. The coordinated move underscores both governments' resolve to curb excessive currency volatility, though analysts remain cautious about its long-term ",
+      "sentiment": "neutral",
+      "reason": "Currency intervention has mixed global impact on emerging markets."
+    },
+    {
+      "title": "Why is market rising today? Sensex surges 650 points, Nifty tops 24,600. 6 key factors fueling the rally",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-surges-500-points-nifty-above-24500-6-key-factors-fueling-the-rally/articleshow/132818002.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:08:22+00:00",
+      "summary": "Indian stock markets saw significant gains on Monday, with the Sensex and Nifty rising approximately one percent. This surge followed US President Donald Trump's announcement of upcoming talks with Iran, which lowered oil prices. Major companies like IndiGo and ITC experienced substantial increases,",
+      "sentiment": "bullish",
+      "reason": "Strong market rally and new highs boost investor sentiment."
+    },
+    {
+      "title": "US equity funds see inflows as AI optimism revives demand for tech stocks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-inflows-as-ai-optimism-revives-demand-for-tech-stocks/articleshow/132818268.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:07:15+00:00",
+      "summary": "US equity funds attracted significant investor inflows, reversing prior withdrawals. Renewed confidence in artificial intelligence and strong tech earnings boosted investor sentiment. Largecap funds received the largest share of these substantial new investments. Meanwhile, demand for US bond funds ",
+      "sentiment": "bullish",
+      "reason": "Global tech optimism positively influences Indian IT equities."
+    },
+    {
+      "title": "Urban Company shares zoom 15% after Q1 results. Why Motilal Oswal raised target price",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-zoom-15-after-q1-results-why-motilal-oswal-raised-target-price/articleshow/132818367.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T04:04:42+00:00",
+      "summary": "Urban Company reported a Rs 92 crore net loss in Q1 FY27 despite a 44% YoY rise in revenue to Rs 528 crore, mainly due to losses from its InstaHelp business. Motilal Oswal retained its ‘Neutral’ rating but raised the target price to Rs 140, implying over 8% upside.",
+      "sentiment": "bullish",
+      "reason": "Strong company earnings and upgrades drive positive stock momentum."
+    },
+    {
+      "title": "US Stock Market: Wall Street braces for jobs data, earnings as markets seek fresh direction",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-wall-street-braces-for-jobs-data-earnings-as-markets-seek-fresh-direction/articleshow/132818075.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:58:35+00:00",
+      "summary": "Investors await crucial July employment data and corporate earnings reports this week. Markets are navigating geopolitical tensions and interest rate uncertainties after recent volatility. The Federal Reserve's policy outlook remains unclear following its last meeting. Strong corporate earnings grow",
+      "sentiment": "neutral",
+      "reason": "Waiting for US macro data causes cautious market posture."
+    },
+    {
+      "title": "ITC shares gain 3% after Q1 results. Here’s why Nomura upgraded the stock to Buy",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-gain-3-after-q1-results-heres-why-nomura-upgraded-the-stock-to-buy/articleshow/132818173.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:58:06+00:00",
+      "summary": "ITC shares rose 2% after the FMCG major reported June-quarter results, despite a 27% YoY decline in standalone net profit. Revenue grew 28%, while Nomura upgraded the stock to Buy, citing an attractive risk-reward profile and potential recovery in cigarette profitability. ITC also warned that import",
+      "sentiment": "bullish",
+      "reason": "Positive Q1 earnings and brokerage upgrade lift stock price."
+    },
+    {
+      "title": "Bajaj Finserv shares rise over 2% after Q1 earnings. Here's why Motilal Oswal upgrades to Buy, raises target price",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finserv-shares-in-focus-after-q1-earnings-heres-why-motilal-oswal-upgrades-to-buy-raises-target-price/articleshow/132817986.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:50:18+00:00",
+      "summary": "Bajaj Finserv shares climbed after reporting a 12% net profit increase for Q1 FY27. Revenue from operations grew nineteen percent year-on-year, and interest income also saw gains. Bajaj Finance's customer base expanded significantly, and new loans booked showed substantial growth. Insurance business",
+      "sentiment": "bullish",
+      "reason": "Strong Q1 results and target upgrades boost investor confidence."
+    },
+    {
+      "title": "Advance Technoforge shares list at 1% discount to IPO price on BSE SME platform",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/advance-technoforge-shares-to-list-on-bse-sme-today-gmp-indicates-mild-listing-gains/articleshow/132817906.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:45:18+00:00",
+      "summary": "Advance Technoforge Limited shares listed on the BSE SME platform at a discount.  The company's IPO was subscribed 1.55 times overall, with retail investors showing interest.  Funds raised will enhance manufacturing capabilities and meet working capital needs.  A significant portion will purchase an",
+      "sentiment": "bearish",
+      "reason": "Discounted SME listing indicates weak IPO market sentiment."
+    },
+    {
+      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Achieves Significant Price Movement",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-03-aug-2026/liveblog/132817849.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:40:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "MV Electrosystems IPO Day 3: GMP jumps, indicating 27% listing gains; issue subscribed 12.03 times; apply or skip?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-day-3-gmp-jumps-indicating-27-listing-gains-issue-subscribed-12-03-times-apply-or-skip/articleshow/132817824.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:37:32+00:00",
+      "summary": "MV Electrosystems IPO GMP: Rs 290-crore MV Electrosystems IPO closes today after securing 12.03 times subscriptions by Day 2, led by strong retail demand. Featuring a 27% grey market premium, the fresh issue aims to fund working capital and R&amp;D, though financial losses in FY26 warrant caution fo",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Propshop Events &amp; Exhibitions shares list at 20% discount to IPO price on NSE SME platform",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/propshop-events-exhibitions-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/132817782.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:33:48+00:00",
+      "summary": "Propshop Events &amp; Exhibitions debuted on the NSE SME platform at Rs 55.20. The company's initial public offering was subscribed 1.53 times overall. IPO proceeds will support operational capabilities and business expansion initiatives. Working capital requirements will receive Rs 16.62 crore from",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "India’s IPO boom cools as weak markets force issuers to cut back",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-ipo-boom-cools-as-weak-markets-force-issuers-to-cut-back/articleshow/132817730.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:28:45+00:00",
+      "summary": "India's primary market is experiencing a slowdown in 2026, with IPO fundraising down 20% year-on-year to $5.78 billion. Facing market volatility, cautious institutional investors, and moderate post-listing gains, major firms are reducing issue sizes, accepting lower valuations, or putting public lis",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Current Price Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-live-updates-03-aug-2026/liveblog/132817648.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:20:27+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Current Price Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-03-aug-2026/liveblog/132817641.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:20:10+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "JSW Steel Share Price Live Updates: JSW Steel's Price Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-updates-03-aug-2026/liveblog/132817640.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:20:05+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Daily Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-03-aug-2026/liveblog/132817639.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:20:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "High dividend yield stocks: Vedanta, Coal India among 15 largecap stocks with high dividend yields. Do you own any?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/high-dividend-yield-stocks-vedanta-coal-india-among-15-largecap-stocks-with-high-dividend-yields-do-you-own-any/slideshow/132817939.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:17:50+00:00",
+      "summary": "Despite volatile markets, dividend-paying large-cap stocks continue rewarding investors. Axis Direct highlights 15 top dividend yield picks, led by Vedanta, Coal India, and IOC, offering steady payouts alongside long-term income potential.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Divis Labs Share Price Live Updates: Divis Labs' six-month beta reflects stability",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-updates-03-aug-2026/liveblog/132817596.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:15:21+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Nifty trapped in 1,531-point range for 15 weeks. Can global AI unwind bring FIIs back?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-trapped-in-1531-point-range-for-15-weeks-can-global-ai-unwind-bring-fiis-back/articleshow/132817585.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:14:47+00:00",
+      "summary": "The Nifty index is approaching a critical juncture after a prolonged consolidation period. Foreign institutional investors are showing early signs of returning after significant outflows this year. The unwinding of global artificial intelligence trades may encourage capital reallocation into India. ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Cipla Share Price Live Updates: Cipla Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-03-aug-2026/liveblog/132817564.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:13:17+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Titan Company Share Price Live Updates: Titan Company Price Update and Market Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-today-live-03-aug-2026/liveblog/132817523.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:11:45+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Juniper Green Energy IPO Day 3: GMP at 1%; Check subscription and key details. Should you apply or skip?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-day-3-gmp-at-1-check-subscription-and-key-details-should-you-apply-or-skip/articleshow/132817519.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:11:39+00:00",
+      "summary": "The Rs 1,800-crore Juniper Green Energy IPO closes for subscription today with a subdued grey market premium of 1%. While institutional demand remains strong, high valuation concerns linger. Proceeds will primarily fund debt reduction, offering a long-term play on India's expanding renewable energy ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Britannia Share Price Live Updates: Britannia's stock price slips under the 20-day EMA",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-live-updates-03-aug-2026/liveblog/132817503.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:10:37+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-03-aug-2026/liveblog/132817497.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:10:29+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-updates-03-aug-2026/liveblog/132817494.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:10:20+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard live stock price tracking update."
+    },
+    {
+      "title": "ITC Share Price Live Updates: Buy, Sell or Hold: Morgan Stanley maintains buy on Maruti Suzuki; Citi retains buy on Sun Pharma",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-03-aug-2026/liveblog/132817486.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:10:03+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Brokerage buy ratings boost market sentiment."
+    },
+    {
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-03-aug-2026/liveblog/132817440.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:51+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine stock performance and price updates."
+    },
+    {
+      "title": "Wipro Share Price Live Updates: Wipro's Price Movement Analysis",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-03-aug-2026/liveblog/132817435.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:43+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General technical price movement analysis."
+    },
+    {
+      "title": "Thermax among 5 stocks closed above VWAP, signaling bullish shift",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thermax-among-5-stocks-closed-above-vwap-signaling-bullish-shift/slideshow/132817468.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:38+00:00",
+      "summary": "On July 31, five stocks in the Nifty500 closed more than 2% above their Volume Weighted Average Price (VWAP), according to StockEdge's technical scan data. A close above the VWAP is considered a bullish signal, indicating that buying momentum strengthened during the session and suggesting the potent",
+      "sentiment": "bullish",
+      "reason": "Closing above VWAP signals bullish shift."
+    },
+    {
+      "title": "ONGC Share Price Live Updates: ONGC stock performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-03-aug-2026/liveblog/132817432.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:33+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General stock performance tracking update."
+    },
+    {
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Trading Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-livestock-price-today-live-updates-03-aug-2026/liveblog/132817430.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:26+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine trading update without directional news."
+    },
+    {
+      "title": "TCS Share Price Live Updates: TCS Rises Above 100-Day EMA Level",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-03-aug-2026/liveblog/132817426.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:16+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Rising above 100-Day EMA indicates positive momentum."
+    },
+    {
+      "title": "HDFC Life Share Price Live Updates: HDFC Life Market Snapshot",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-03-aug-2026/liveblog/132817423.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:05:05+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Bajaj Finserv among 4 stocks flashing bullish signals, hinting at a possible uptrend",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finserv-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/132817402.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:00:37+00:00",
+      "summary": "On July 31, four stocks in the Nifty500 appeared on the White Marubozu bullish scanner, according to StockEdge's technical scan data. The White Marubozu is a bullish candlestick pattern that signals strong buying pressure throughout the trading session, indicating sustained bullish momentum and the ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Continues to Show Strength in Market",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-03-aug-2026/liveblog/132817361.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:00:25+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Trading Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-today-live-03-aug-2026/liveblog/132817352.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T03:00:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises  Price Movement",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-updates-03-aug-2026/liveblog/132817272.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T02:55:56+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Jaiprakash Power Ventures among 5 stocks showing bullish RSI upswing",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132817328.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T02:55:41+00:00",
+      "summary": "Five stocks in the Nifty500 pack that gained over 5% featured in the RSI Trending Up scan on July 31 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for trade",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-03-aug-2026/liveblog/132817264.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T02:55:22+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Stock market closing time changes from today: What happens at 3:15, 3:30 and 3:40 PM",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-closing-time-changes-from-today-what-happens-at-315-330-and-340-pm/articleshow/132817243.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T02:53:43+00:00",
+      "summary": "India's stock market introduces new closing times and auction sessions starting today.  Continuous trading for F&amp;O stocks ends at 3:15 p.m. for a new auction process.  Other stocks will continue trading until 3:30 p.m. while derivatives trade until 3:40 p.m.  This new system aims to improve pric",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "BPCL Share Price Live Updates: BPCL Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-today-live-03-aug-2026/liveblog/132817224.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T02:51:44+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Current Trading Status",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-03-aug-2026/liveblog/132817213.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-08-03T02:51:14+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "India's July factory growth near five-year low on weaker demand, PMI shows",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-july-factory-growth-near-five-year-low-on-weaker-demand-pmi-shows/articleshow/132819551.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-03T05:08:22+00:00",
+      "summary": "India's manufacturing growth slowed to a near five-year low in July as weak demand weighed on new orders, while hiring growth softened for a third month. Easing input cost inflation offered some relief and business confidence improved slightly.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "RBI MPC begins today as policymakers weigh inflation, crude risks",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-begins-today-as-policymakers-weigh-inflation-crude-risks/articleshow/132817892.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-03T03:49:37+00:00",
+      "summary": "The Reserve Bank of India's Monetary Policy Committee begins its meeting this week.  Market participants widely expect the benchmark repo rate to remain unchanged.  Experts believe the central bank will focus on domestic inflation and growth.  Global uncertainties and elevated crude oil prices are c",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Data centres draw 40% of institutional capital in the June quarter",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/data-centres-draw-40-of-institutional-capital-in-the-june-quarter/articleshow/132813300.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T19:17:35+00:00",
+      "summary": "Data centres are now the second-largest investment recipient, attracting substantial institutional capital.  Rapid AI adoption and cloud expansion fuel investor interest in digital infrastructure assets.  India's data centre capacity is projected to more than double by 2025.  The current investment ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "RBI special windows seen big enough to bring in $100B",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-special-windows-seen-big-enough-to-bring-in-100b/articleshow/132813309.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T19:13:27+00:00",
+      "summary": "India's new forex inflow programs may attract approximately one hundred billion dollars.  These special drives have already mobilized over forty billion dollars in foreign exchange.  Experts predict these initiatives could significantly exceed initial mobilization estimates.  The Reserve Bank of Ind",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "India, Canada aim to conclude CEPA trade pact by end-2026: MEA",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-aim-to-conclude-cepa-trade-pact-by-end-2026-mea/articleshow/132813105.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T18:48:07+00:00",
+      "summary": "India and Canada are working to finalize their economic partnership agreement. Negotiations for the Comprehensive Economic Partnership Agreement are progressing well. Both nations aim to conclude these important talks by the end of 2026. This agreement seeks to liberalize trade and strengthen econom",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Govt's urban reset: Centre divides ministry of Housing and Urban Affairs into two specialised verticals",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/govts-urban-reset-centre-divides-ministry-of-housing-and-urban-affairs-into-two-specialised-verticals/articleshow/132812900.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T18:35:41+00:00",
+      "summary": "The Ministry of Housing and Urban Affairs has undergone a significant structural overhaul. Senior bureaucrats were replaced and new leadership appointed to spearhead its flagship missions. The ministry was split into two specialized departments, focusing on capital development and urban development.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Government plans to ease forex rule for SEZ services exports to domestic tariff areas",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/government-plans-to-ease-forex-rule-for-sez-services-exports-to-domestic-tariff-areas/articleshow/132812586.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T18:33:16+00:00",
+      "summary": "The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proceeds for SEZ to DTA supplies of services must be realised in foreign exchange, although there is no such requirement in case of supply of goods to DTA entities.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Processed food exports gain steam, US leads the rise in global appetite",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/processed-food-exports-gain-steam-us-leads-the-rise-in-global-appetite/articleshow/132812525.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T18:23:16+00:00",
+      "summary": "Exports of ready-to-eat and cooked food items increased 16% to $2.4 billion in 2025-26 from $2.1 billion in the previous financial year, according to an ET analysis. The analysis is based on 11 items including pasta, sweet biscuits, pastries, papad, coffee and tea.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Government aims to complete Mumbai's Coastal Road project by Dec 2028: Union Minister Piyush Goyal",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/government-aims-to-complete-mumbais-coastal-road-project-by-dec-2028-union-minister-piyush-goyal/articleshow/132809306.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T15:45:20+00:00",
+      "summary": "The Bandra-Versova-Bhayander Coastal Road project aims for completion by December 2028.  This infrastructure development will significantly reduce travel times across Mumbai's western suburbs.  Additional projects, including a desalination plant, are also under review for future implementation.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "India clears only one Chinese FDI proposal worth Rs 1 crore in FY26; approves 13 Hong Kong investments",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-clears-only-one-chinese-fdi-proposal-worth-rs-1-crore-in-fy26-approves-13-hong-kong-investments/articleshow/132809050.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T15:12:14+00:00",
+      "summary": "India approved one Chinese FDI proposal worth Rs 1 crore during FY26.  Thirteen proposals from Hong Kong totaling Rs 610.42 crore received government clearance.  Overall, sixty-three FDI proposals worth Rs 10,292.67 crore were approved by the government.  Singapore and the UK emerged as top FDI sour",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "NBA releases Rs 8.22 crore to rice research institutions and rice-growing States",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/nba-disburses-rs-822-crore-to-boost-rice-research-and-biodiversity-efforts-in-india/articleshow/132804675.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-08-02T10:14:31+00:00",
+      "summary": "Of the total amount, Rs 2.47 crore has been released to research institutions that conserved and shared the rice varieties with the company. ICAR-Indian Institute of Rice Research, Hyderabad, has received the largest share of Rs 2.43 crore, while Govind Ballabh Pant University of Agriculture and Tec",
+      "sentiment": "neutral",
+      "reason": ""
+    }
+  ]
+}
