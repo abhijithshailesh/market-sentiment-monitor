@@ -1,0 +1,651 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T07:29:39.435964Z",
+  "overall_sentiment": "bullish",
+  "summary": "Indian market sentiment is leaning positive today, driven by strong macroeconomic data including a narrowing trade deficit, robust export growth, and encouraging GDP projections. Investor confidence is further supported by solid quarterly earnings reports, active tech-led market rebounds, and progress on international trade pacts with countries like Canada and the US. Although global headwinds such as tech sector jitters and US inflation concerns persist, domestic economic resilience and strong capital inflows are keeping the overall market mood upbeat.",
+  "bullish_count": 26,
+  "bearish_count": 8,
+  "neutral_count": 37,
+  "headline_count": 71,
+  "headlines": [
+    {
+      "title": "Global Market: Japanese investors extend foreign bond selling streak to four weeks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-four-weeks/articleshow/134985765.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T07:07:17+00:00",
+      "summary": "Japanese investors sold foreign bonds for a fourth consecutive week, pushing year-to-date net outflows to 5.34 trillion yen, the highest since 2022. Rising domestic bond yields are encouraging capital repatriation, while foreign investors increase Japanese bond and equity holdings. However, life ins",
+      "sentiment": "neutral",
+      "reason": "Global bond selling has minimal direct impact on Indian equities."
+    },
+    {
+      "title": "Indian Bank reports a Rs 1,388 crore gain from sale of NSE shares",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-reports-a-rs-1388-crore-gain-from-sale-of-nse-shares/articleshow/134985719.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T07:04:25+00:00",
+      "summary": "Indian Bank gained Rs 1,388 crore from the NSE listing, boosting second-quarter non-interest income by 50% to Rs 3,953 crore. The one-time gain offset pressure from rising bond yields, despite Rs 123 crore in mark-to-market losses. Meanwhile, Canara Bank and UCO Bank reported declines in other incom",
+      "sentiment": "bullish",
+      "reason": "Significant capital gain boosts bank profitability and market sentiment."
+    },
+    {
+      "title": "Jio IPO GMP at 20%: Grey market signals Rs 220 premium as brokerages say subscribe",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-at-20-grey-market-signals-rs-220-premium-as-brokerages-say-subscribe/articleshow/134985658.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T07:03:15+00:00",
+      "summary": "Jio Platforms’ Rs 30,200 crore IPO has a grey market premium of Rs 220 ahead of its October 21 opening. Emkay Global and SBI Securities highlight its telecom leadership, earnings growth and digital expansion, while flagging valuation, regulatory and capital expenditure risks.",
+      "sentiment": "bullish",
+      "reason": "Strong GMP and positive brokerage views indicate robust market demand."
+    },
+    {
+      "title": "Rupee relief comes with disruptions in financial markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-relief-comes-with-disruptions-in-financial-markets/articleshow/134985296.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T06:57:02+00:00",
+      "summary": "The Reserve Bank of India took decisive steps to stabilize the rupee, significantly affecting financial markets. New constraints led to skyrocketing hedging costs and dwindled liquidity in the forex sector. Moreover, bond yields soared to their highest in three years due to escalating oil prices and",
+      "sentiment": "neutral",
+      "reason": "Rupee relief is positive, but market disruptions offset gains."
+    },
+    {
+      "title": "HFCL’s AI, data centre exposure drives Nuvama’s Buy call; target implies 56% upside",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcls-ai-data-centre-exposure-drives-nuvamas-buy-call-target-implies-56-upside/articleshow/134985229.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T06:53:32+00:00",
+      "summary": "Nuvama has initiated coverage on HFCL with a ‘Buy’ rating and a target price of Rs 380, implying a 56% upside from its reference price of Rs 244. The brokerage expects the company’s shift towards telecom and networking products, along with rising demand from data centres and exports, to drive earnin",
+      "sentiment": "bullish",
+      "reason": "Strong analyst backing and growth catalysts drive stock interest."
+    },
+    {
+      "title": "US Market: Fed's Goolsbee says latest US inflation data is discouraging",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-goolsbee-says-latest-us-inflation-data-is-discouraging/articleshow/134985186.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T06:49:45+00:00",
+      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee called the latest US consumer and producer inflation data discouraging, raising concerns about persistent price pressures. While temporary factors such as tariffs and geopolitical conflicts could ease, he warned that demand driven by the rapi",
+      "sentiment": "bearish",
+      "reason": "Negative US inflation data dampens global risk sentiment."
+    },
+    {
+      "title": "AI debt crisis? CoreWeave sell-off rattles tech investors",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-debt-crisis-coreweave-sell-off-rattles-tech-investors/slideshow/134985217.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T06:12:02+00:00",
+      "summary": "CoreWeave’s share and bond sell-off has intensified concerns over the debt financing behind the AI infrastructure boom. With around $50 billion in debt and bond yields above 16%, investors are questioning whether future AI revenues can justify rising borrowing and infrastructure costs.",
+      "sentiment": "bearish",
+      "reason": "Tech sector sell-off could spill over to Indian IT."
+    },
+    {
+      "title": "Indonesia’s $1.5 trillion market faces a historic downgrade: Why global investors are worried",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indonesias-1-5-trillion-market-faces-a-historic-downgrade-why-global-investors-are-worried/articleshow/134984330.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T06:08:35+00:00",
+      "summary": "Indonesia’s $1.5 trillion stock market plunged after MSCI warned that its emerging-market classification may no longer be appropriate, raising fears of billions of dollars in foreign outflows. Concerns over market transparency, opaque shareholding structures and policy credibility have intensified i",
+      "sentiment": "neutral",
+      "reason": "Foreign downgrade of Indonesia may cause minor capital reallocation."
+    },
+    {
+      "title": "US Market: Fed Chair Warsh offers no signal on October interest-rate decision",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:54:41+00:00",
+      "summary": "Federal Reserve Chair Kevin Warsh gave no signal on whether the US central bank would change interest rates at its October 27-28 meeting, reiterating its commitment to price stability. Markets await further clues from economic data and policymakers on the rate outlook.",
+      "sentiment": "neutral",
+      "reason": "Uncertainty regarding Fed policy keeps global and domestic markets cautious."
+    },
+    {
+      "title": "PC Jeweller, Shanti Gold &amp; other jewellery stocks rally up to 10%. Here's why",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-pc-jeweller-other-jewellery-stocks-rally-up-to-10-as-gold-etf-fof-subscriptions-face-curbs/articleshow/134983846.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:49:57+00:00",
+      "summary": "Jewellery stocks, including Shanti Gold International, PC Jeweller and Sky Gold and Diamonds, rose sharply on Friday as mutual fund houses temporarily restricted fresh subscriptions to gold ETF Fund of Funds. With the festive and wedding season approaching, analysts expect resilient gold demand, whi",
+      "sentiment": "bullish",
+      "reason": "Sector-specific rally boosts investor confidence in jewellery stocks."
+    },
+    {
+      "title": "Microsoft’s AI strategy gains traction as Wall Street bets on cloud growth",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsofts-ai-strategy-gains-traction-as-wall-street-bets-on-cloud-growth/slideshow/134984150.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:21:14+00:00",
+      "summary": "Microsoft heads into its October 28 earnings report amid bullish analyst sentiment, driven by Azure growth and AI adoption, as investors assess monetisation, capital expenditure and profitability prospects.",
+      "sentiment": "bullish",
+      "reason": "Positive global tech sentiment can spill over to Indian IT equities."
+    },
+    {
+      "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:19:41+00:00",
+      "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acquisition-related costs.",
+      "sentiment": "bearish",
+      "reason": "Profit-booking despite strong revenue growth signals weak short-term sentiment."
+    },
+    {
+      "title": "Bulls fight back as Sensex stages 700-point comeback. 4 factors driving the rally",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-are-markets-rising-today-sensex-soars-700-pts-from-days-low-nifty-nears-23150-4-factors-fuelling-the-surge/articleshow/134983166.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:18:01+00:00",
+      "summary": "On Friday morning, benchmark indices Sensex and Nifty made a remarkable recovery after a short dip into negative territory. The IT sector continued its upward trend for the fourth consecutive session, with significant contributions from industry leaders such as Tech Mahindra and Infosys, which surge",
+      "sentiment": "bullish",
+      "reason": "Market rebound shows strong buying interest and recovery from lows."
+    },
+    {
+      "title": "New CAS rules decoded: What Sebi’s revised framework means for stock market traders",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-cas-rules-decoded-what-sebis-revised-framework-means-for-stock-market-traders/articleshow/134983183.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:16:21+00:00",
+      "summary": "Sebi has revised the Closing Auction Session (CAS) framework after receiving more than 20,000 comments from stakeholders. The updated rules introduce a 10-minute closing auction, restore the VWAP method for F&amp;O expiry settlement prices and clarify order transfers. Most changes will take effect o",
+      "sentiment": "neutral",
+      "reason": "Regulatory changes impact traders, but overall market effect is unclear."
+    },
+    {
+      "title": "Global hedge funds suffer steep losses as AI trade unwinds, Asia funds hit hardest",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-hedge-funds-suffer-steep-losses-as-ai-trade-unwinds-asia-funds-hit-hardest/articleshow/134982825.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:02:09+00:00",
+      "summary": "Global hedge funds suffered steep losses as investors unwound artificial intelligence-related trades amid inflation concerns and expectations of higher interest rates. Asia-focused stock pickers were hit hardest, losing 6.8% in early October, while global fundamental long-short funds fell 2.9% throu",
+      "sentiment": "bearish",
+      "reason": "Global hedge fund losses could trigger foreign institutional capital outflows."
+    },
+    {
+      "title": "Karur Vysya Bank shares rally 6% after Q2 profit jumps 37% YoY",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-rally-6-after-q2-profit-jumps-37-yoy/articleshow/134982900.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T05:00:14+00:00",
+      "summary": "Karur Vysya Bank shares rose sharply after the private sector lender reported a 37% year-on-year rise in Q2FY27 net profit to Rs 788 crore. Net interest income grew 19% to Rs 1,497.3 crore, while total business increased nearly 18% to Rs 2.40 lakh crore.",
+      "sentiment": "bullish",
+      "reason": "Strong quarterly profit growth drives positive sentiment for banking stocks."
+    },
+    {
+      "title": "Rupee rises 20 paise to 94.79 against US dollar in early trade",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-20-paise-to-94-79-against-us-dollar-in-early-trade/articleshow/134982864.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:55:09+00:00",
+      "summary": "The rupee reached 94.79 against the US dollar following structural forex interventions by the Reserve Bank of India. Elevated crude oil prices and declining equity markets limited the currency's gains. The dollar index decreased by 0.54 per cent, reflecting the dollar's weakened strength. While US r",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "HDFC Bank Q2 results preview: PAT, NII may rise up to 9% YoY; deposit growth in focus",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-preview-pat-nii-may-rise-up-to-9-yoy-deposit-growth-in-focus/articleshow/134982802.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:53:00+00:00",
+      "summary": "HDFC Bank is set to unveil its Q2 results on October 17, 2026, showcasing key financial indicators. Analysts predict a year-on-year rise in net interest income of about 8%, driven by an increase in loans. Profit after tax forecasts vary among brokerages, reflecting a range of expectations regarding ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Beyond Titan and Kalyan: Analysts pick these jewellery stocks as potential market winners. Do you own any?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-titan-and-kalyan-analysts-pick-these-jewellery-stocks-as-potential-market-winners-do-you-own-any/articleshow/134982643.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:47:32+00:00",
+      "summary": "As the festive season approaches, India's gems and jewellery sector braces itself for an influx of consumer demand. Analysts believe that sustained purchases tied to weddings could boost sales, even amid rising gold prices. While Titan Company and Kalyan Jewellers remain prominent, Senco Gold and La",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Global Market: China's wealthy rush to unwind offshore trusts as tax deadline looms",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-wealthy-rush-to-unwind-offshore-trusts-as-tax-deadline-looms/articleshow/134982601.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:42:18+00:00",
+      "summary": "China’s wealthy individuals are restructuring offshore trusts, selling investments and reassessing residency amid a new 20% tax on overseas trust income. With an October 22 declaration deadline approaching, uncertainty over enforcement and liabilities is prompting asset sales, borrowing and delayed ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Persistent Systems among 4 F&amp;O stocks with a sharp rise in futures open interest",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134982593.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:35:53+00:00",
+      "summary": "Persistent Systems, Ujjivan Small Finance Bank, Siemens Energy India, and Nestle India recorded futures open interest increases exceeding 11% on October 15, indicating heightened derivatives market activity.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Global Market: South Korean shares rebound, but head for biggest weekly loss in 18 years",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-rebound-but-head-for-biggest-weekly-loss-in-18-years/articleshow/134982486.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:34:23+00:00",
+      "summary": "South Korea’s KOSPI rebounded 2.36% on bargain hunting after a steep selloff, but remained on track for its biggest weekly decline since October 2008. Concerns over AI investment sustainability and continued foreign selling weighed on investor sentiment.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Global Market: Japan's Nikkei rebounds after six-session losing streak; weekly loss nears 5%",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-japans-nikkei-rebounds-after-six-session-losing-streak-weekly-loss-nears-5/articleshow/134982420.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:28:58+00:00",
+      "summary": "Japan’s Nikkei rebounded 1.75% after six consecutive sessions of losses, supported by bargain hunting and gains in technology and banking stocks. However, the index remained on track for a weekly decline as investors awaited corporate earnings and US midterm elections.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Wipro shares rise over 2% as Q2 revenue grows 9% YoY. What are Nomura, Goldman Sachs analysts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-rise-over-2-as-q2-revenue-grows-9-yoy-what-are-nomura-goldman-sachs-analysts-saying/articleshow/134982358.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:26:14+00:00",
+      "summary": "Wipro reported a 9.1% year-on-year rise in Q2FY27 revenue to Rs 24,752.7 crore, while net profit fell 1.9% to Rs 3,201 crore. The IT major expects Q3 revenue growth of -1.5% to 0.5% sequentially in constant currency terms. Nomura retained its Buy rating with a Rs 200 target, citing a slight revenue ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Will Ambani's all-fresh Jio sale prove to be a masterstroke for investors?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-10000-cr-ofs-ipos-falter-will-ambanis-all-fresh-jio-sale-prove-a-masterstroke-for-investors/articleshow/134982377.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:25:37+00:00",
+      "summary": "Reliance Jio is set to roll out an ambitious Rs 30,213 crore IPO featuring solely new equity shares, not existing ones. In light of mixed results from recent Indian IPOs, this move aims to cut down Jio's debt while bolstering its financial standing. The company's IPO, valued at Rs 10.",
+      "sentiment": "bullish",
+      "reason": "Positive outlook on a major Reliance Jio stake sale."
+    },
+    {
+      "title": "Global Market: Yuan holds steady, set for third weekly gain on robust Chinese exports",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-yuan-holds-steady-set-for-third-weekly-gain-on-robust-chinese-exports/articleshow/134982323.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:20:37+00:00",
+      "summary": "China’s yuan remained stable against the dollar, heading for a third consecutive weekly gain on resilient exports. The currency reached its strongest level since January 2023, despite domestic economic concerns and rising global bond yields. Investors await China’s third-quarter GDP data and signals",
+      "sentiment": "neutral",
+      "reason": "Global currency and export news with minor local impact."
+    },
+    {
+      "title": "HD Fire Protect IPO allotment likely today; GMP at 30%. Here's how to check status",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/hd-fire-protect-ipo-allotment-likely-today-gmp-at-30-heres-how-to-check-status/articleshow/134982258.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:18:26+00:00",
+      "summary": "HD Fire Protect IPO allotment status is expected today following a massive 131.70 times subscription. The Rs 712.31-crore public issue commands a 30% grey market premium. Investors can check allotment status online via the registrar MUFG Intime India, BSE, and NSE websites ahead of its scheduled Oct",
+      "sentiment": "bullish",
+      "reason": "Strong Grey Market Premium signals robust IPO investor demand."
+    },
+    {
+      "title": "Jio IPO: Meta, Google sit on nearly ₹1 lakh crore paper profit &amp; neither is selling",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-meta-google-sit-on-nearly-1-lakh-crore-paper-profit-neither-is-selling/articleshow/134982204.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:14:32+00:00",
+      "summary": "Meta Platforms and Google are poised to realize significant gains from their Jio investment made in 2020. To bolster its growth, Jio Platforms is moving forward with an initial public offering planned to raise around ₹30,213 crore, achieving a valuation of ₹10.3 lakh crore. Neither Meta nor Google p",
+      "sentiment": "bullish",
+      "reason": "Major tech giants holding large profits signals immense value."
+    },
+    {
+      "title": "Zetwerk Manufacturing Business IPO Day 2: GMP at 9%; Check subscription status, and key details",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-manufacturing-business-ipo-day-2-gmp-at-9-check-subscription-status-and-key-details/articleshow/134982156.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:12:02+00:00",
+      "summary": "Zetwerk Manufacturing Business’ IPO entered its second day of bidding on October 16 after garnering 23% subscription on Day 1. The retail category was subscribed 22%. The IPO’s grey market premium stood at 9%, suggesting potential listing gains, though GMP is unofficial and does not guarantee listin",
+      "sentiment": "neutral",
+      "reason": "Credit rating stability despite earnings hit reassures markets."
+    },
+    {
+      "title": "India's Yes Bank AT-1 ruling won't impact ratings despite earnings hit, S&amp;P says",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-yes-bank-at-1-ruling-wont-impact-ratings-despite-earnings-hit-sp-says/articleshow/134982074.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:08:41+00:00",
+      "summary": "Yes Bank faced a setback as India's Supreme Court overturned its write-off of 84 billion rupees in bonds. S&amp;P Global Ratings stated the ruling would not impact its credit rating of the bank. The decision highlights procedural errors in the 2020 write-down process, which regulators had supported.",
+      "sentiment": "bullish",
+      "reason": "High subscription and strong GMP indicate heavy retail demand."
+    },
+    {
+      "title": "Tonbo Imaging India IPO Day 2: GMP at 71%, issue subscribed 4x; Check key details",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imaging-india-ipo-day-2-gmp-at-71-issue-subscribed-4x-check-key-details/articleshow/134981885.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:08:05+00:00",
+      "summary": "Tonbo Imaging India’s Rs 852.18 crore IPO received four times subscription on Day 1, supported by strong institutional demand and a 71% grey market premium. The defence technology company’s offer-for-sale coincides with declining FY26 revenue and profits, despite its specialised imaging systems and ",
+      "sentiment": "bullish",
+      "reason": "Strong Q2 earnings drive positive stock price momentum."
+    },
+    {
+      "title": "Tech Mahindra shares gain 5% after Q2 results. Should you buy, sell or hold the stock?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-shares-gain-5-after-q2-results-should-you-buy-sell-or-hold-the-stock/articleshow/134982036.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:04:26+00:00",
+      "summary": "Tech Mahindra share price: Tech Mahindra shares rose after Q2FY27 net profit increased 32.7% year-on-year to Rs 1,586 crore. Nomura retained its Neutral rating, seeing limited upside despite expectations of above-peer growth in FY27, driven by large telecom deals and expansion across other verticals",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "NSE, BSE, Groww, other capital market stocks rise up to 3% as Sebi revises CAS framework. What traders must know",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-bse-groww-other-capital-market-stocks-rise-up-to-3-as-sebi-revises-cas-framework-what-traders-must-know/articleshow/134981937.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T04:01:29+00:00",
+      "summary": "SEBI has revised the Closing Auction Session framework, changing market timings, order transfer rules and settlement price calculations for derivatives. The updated rules will take effect from December 7, 2026, with provisions for transferring unexecuted limit and iceberg orders kicking in on Februa",
+      "sentiment": "bullish",
+      "reason": "Regulatory changes boost capital market stocks by up to three percent."
+    },
+    {
+      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Trading Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134981663.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:45:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine live updates on trading and market position."
+    },
+    {
+      "title": "Fusion CX IPO Day 3: Check GMP, subscription status. Should you apply?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fusion-cx-ipo-day-3-check-gmp-subscription-status-should-you-apply/articleshow/134981321.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:26:28+00:00",
+      "summary": "Fusion CX’s Rs 702 crore IPO entered its final bidding day, with 1.10 times subscription on Day 2 and an 8% grey market premium. Brokerages highlight growth potential, improving profitability, AI-driven demand and reasonable valuations, while proceeds will primarily reduce debt and fund technology u",
+      "sentiment": "neutral",
+      "reason": "Standard IPO progress reporting with no directional bias."
+    },
+    {
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134981345.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:25:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine stock performance tracking with no major catalysts."
+    },
+    {
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Market Standing",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134981314.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:21:29+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard IPO subscription status update without clear direction."
+    },
+    {
+      "title": "Sahajanand Medical Technologies IPO Day 2: Check GMP, subscription status and key details",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-day-2-check-gmp-subscription-status-and-key-details/articleshow/134981288.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:21:17+00:00",
+      "summary": "Sahajanand Medical Technologies IPO entered Day 2 on October 16, 2026, with a 12% GMP and 34% subscription on Day 1. The Rs 475.48-crore offer for sale is priced at Rs 327-344 per share. PAT surged 175% to Rs 69 crore in FY26 amid steady revenue growth.",
+      "sentiment": "neutral",
+      "reason": "Regular daily performance update for individual stock."
+    },
+    {
+      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Daily Performance Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-today-live-16-oct-2026/liveblog/134981310.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:20:52+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard stock performance tracking with no specific news."
+    },
+    {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-16-oct-2026/liveblog/134981299.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:20:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Zen Technologies among 3 stocks that closed crossing above VWAP",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134981285.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:16:28+00:00",
+      "summary": "Zen Technologies, HDFC Asset Management Company, and Signatureglobal recorded closing prices above their volume-weighted average prices on October 15, reflecting intraday trading strength across these three Nifty 500 stocks.",
+      "sentiment": "bullish",
+      "reason": "Closing above VWAP signals short-term technical strength."
+    },
+    {
+      "title": "Britannia Share Price Live Updates: Britannia's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-today-live-updates-16-oct-2026/liveblog/134981266.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:16:01+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General price update provides no directional momentum."
+    },
+    {
+      "title": "Bonfiglioli Transmissions IPO Day 2: GMP at 24%; Check subscription status. Should you subscribe?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-day-2-gmp-at-24-check-subscription-status-should-you-subscribe/articleshow/134981228.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:14:38+00:00",
+      "summary": "Bonfiglioli Transmissions IPO entered Day 2 with a 24% GMP and 48% overall subscription on Day 1. The Rs 2,533.66-crore offer for sale is priced at Rs 558-586 per share. Anand Rathi assigned a \"Subscribe for Long Term\" rating, citing growth in automation despite fully valued pricing metrics.",
+      "sentiment": "bullish",
+      "reason": "Positive grey market premium and subscription interest."
+    },
+    {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cem. Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-live-updates-16-oct-2026/liveblog/134981203.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:10:27+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard stock price tracking update."
+    },
+    {
+      "title": "ONGC Share Price Live Updates: ONGC's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-16-oct-2026/liveblog/134981141.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:05:27+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine market position update without directional cues."
+    },
+    {
+      "title": "HPCL among 3 stocks showing White Marubozu pattern",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-among-3-stocks-showing-white-marubozu-pattern/slideshow/134981188.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:05:24+00:00",
+      "summary": "HPCL, HDFC AMC and Nuvoco Vistas featured in StockEdge’s White Marubozu scan on October 15, reflecting strong upward price momentum.",
+      "sentiment": "bullish",
+      "reason": "White Marubozu pattern indicates strong bullish buying pressure."
+    },
+    {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-16-oct-2026/liveblog/134981124.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:03:48+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Informational stock details without sentiment catalyst."
+    },
+    {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Price and Returns Overview",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-live-updates-16-oct-2026/liveblog/134981118.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:03:11+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Overview of historical price and returns."
+    },
+    {
+      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134981113.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:02:30+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard stock price tracking update with no actionable direction."
+    },
+    {
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Market Valuation",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-16-oct-2026/liveblog/134981108.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-16T03:02:13+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine market valuation update lacking directional market catalysts."
+    },
+    {
+      "title": "India, Canada sign commercial deals as both aim to seal trade pact by 2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-sign-commercial-deals-as-both-aim-to-seal-trade-pact-by-2026/articleshow/134985153.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-16T06:51:39+00:00",
+      "summary": "India and Canada have signed commercial agreements aimed at strengthening trade relations and enhancing economic cooperation. Minister of International Trade Maninder Sidhu emphasized collaboration opportunities in various sectors like artificial intelligence and digital innovation. The proposed Com",
+      "sentiment": "bullish",
+      "reason": "Bilateral trade pacts boost foreign investor confidence."
+    },
+    {
+      "title": "India's GDP to grow 7.1-7.3% in FY27 as private investment gains momentum: Deloitte",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-to-grow-7-1-7-3-in-fy27-as-private-investment-gains-momentum-deloitte/articleshow/134984228.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-16T06:06:02+00:00",
+      "summary": "In the fiscal year 2026-27, India's economy is expected to see growth ranging from 7.1 to 7.3 percent, fueled by a recovery in private investments coupled with enhanced business dynamics. For the past ten years, strong household consumption and substantial public infrastructure investments have driv",
+      "sentiment": "bullish",
+      "reason": "Strong projected GDP growth driven by private investments."
+    },
+    {
+      "title": "India-US trade pact would be concluded at earliest, in interest of global trade: FM Sitharaman",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-pact-would-be-concluded-at-earliest-in-interest-of-global-trade-fm-sitharaman/articleshow/134982911.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-16T05:59:49+00:00",
+      "summary": "In a promising update on the India-US trade agreement, Nirmala Sitharaman indicated that negotiations are progressing well, with Commerce Minister Piyush Goyal mentioning that legal drafting for the initial phase is in motion. Addressing concerns related to trade imbalances and China's market access",
+      "sentiment": "bullish",
+      "reason": "Optimism surrounding expedited international trade agreements."
+    },
+    {
+      "title": "China's trade barriers biggest hurdle in bilateral ties, says Nirmala Sitharaman; flags $100 billion deficit",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/chinas-trade-barriers-biggest-hurdle-in-bilateral-ties-says-nirmala-sitharaman-flags-100-billion-trade-gap/articleshow/134982053.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-16T04:07:36+00:00",
+      "summary": "Nirmala Sitharaman has identified China's constraints on Indian exports as a crucial hindrance to trade advancement. The finance minister reported a staggering trade deficit exceeding $100 billion with China this year, even with improved diplomatic relations. She noted that non-tariff barriers obstr",
+      "sentiment": "bearish",
+      "reason": "Trade tensions with China highlight persistent bilateral risks."
+    },
+    {
+      "title": "'India's dynamic market': Canada Trade Minister Sidhu highlights opportunities for Canadian firms",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-dynamic-market-canada-trade-minister-sidhu-highlights-opportunities-for-canadian-firms/articleshow/134980414.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-16T02:12:16+00:00",
+      "summary": "Canadian International Trade Minister Maninder Sidhu has highlighted opportunities for Canadian companies in India's \"dynamic market\", identifying artificial intelligence, quantum computing, aviation infrastructure, digital innovation, sustainability and smart mobility as key areas for bilateral coo",
+      "sentiment": "bullish",
+      "reason": "International trade interest supports broader economic sentiment."
+    },
+    {
+      "title": "Indian rice export prices hit over 1 year high on stronger rupee, crop supply concerns",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/indian-prices-hit-more-than-one-year-high-on-stronger-rupee-and-crop-supply-concerns/articleshow/134979972.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-16T02:08:14+00:00",
+      "summary": "Asian rice export prices have risen as Indian rates reach a one-year high amid supply concerns. Vietnamese prices are also increasing, expected to meet strong demand from the Philippines in November. Thailand's rice prices are climbing due to flooding delays and heightened purchasing activities befo",
+      "sentiment": "bearish",
+      "reason": "Higher export prices and supply concerns pressure margins."
+    },
+    {
+      "title": "India-US trade pact in last leg of legal drafting, says Piyush Goyal",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-pact-in-last-leg-of-legal-drafting-says-piyush-goyal/articleshow/134976412.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T20:17:40+00:00",
+      "summary": "India is currently in the final stages of legal drafting for a trade agreement with the US, which is expected to be operational soon. The agreement, following sessions with US trade representatives, aims to ensure preferential access for Indian exporters. Indian officials hope for tariff stability a",
+      "sentiment": "bullish",
+      "reason": "Trade pact progress boosts bilateral commerce and investor sentiment."
+    },
+    {
+      "title": "India's September goods exports rise 23% as imports hit six-month low, narrowing trade deficit",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-september-goods-exports-rise-23-as-imports-hit-six-month-low-narrowing-trade-deficit/articleshow/134976400.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T20:13:04+00:00",
+      "summary": "India's goods exports surged by 23% in September, totaling $44.4 billion, supported by significant gains in electronics, petroleum, and engineering goods. At the same time, imports rose by only 8%, leading to a reduced trade deficit of $30.21 billion. This export growth reflects a sustained positive",
+      "sentiment": "bullish",
+      "reason": "Surging exports and shrinking trade deficit strengthen economic outlook."
+    },
+    {
+      "title": "Markets will push the US to act constructively: Nouriel Roubini",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/markets-will-push-the-us-to-act-constructively-nouriel-roubini/articleshow/134976052.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T19:42:21+00:00",
+      "summary": "Nouriel Roubini highlighted the significance of India's emerging economy during a recent event in Dubai. As the US seeks a constructive trade relationship with India, economic pressure is expected to guide policymaking. India is seen as vital due to its large domestic market and skilled workforce. T",
+      "sentiment": "neutral",
+      "reason": "Global expert commentary on US policy lacks direct domestic market impact."
+    },
+    {
+      "title": "India’s manufacturing growth opens new investment opportunities: Trifecta Capital co-founder Rahul Khanna",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-manufacturing-growth-opens-new-investment-opportunities-trifecta-capital-co-founder-rahul-khanna/articleshow/134973444.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T17:43:37+00:00",
+      "summary": "India's manufacturing sector is expanding, which is leading to investment opportunities in various industries and defence. Trifecta Capital's co-founder highlighted the rise of trusted economies, with India being a key player. Companies are restructuring supply chains and leveraging technology to fa",
+      "sentiment": "bullish",
+      "reason": "Strong manufacturing growth attracts fresh foreign and domestic investments."
+    },
+    {
+      "title": "India's current account deficit narrows to $5.2 billion in August as capital account surplus hits $50.6 billion",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-current-account-deficit-narrows-to-5-2-billion-in-august-as-capital-account-surplus-hits-50-6-billion/articleshow/134971438.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T15:56:13+00:00",
+      "summary": "India's current account deficit narrowed to $5.2 billion in August, compared to $6.1 billion a year earlier. The capital account surplus increased substantially to $50.6 billion, influenced by non-resident deposits of $83 billion. The balance of payments showed a surplus of $45.4 billion, contrastin",
+      "sentiment": "bullish",
+      "reason": "Narrower current account deficit and large surplus bolster macroeconomic stability."
+    },
+    {
+      "title": "RBI clarifies interbank trades, ECBs coupons not part of FERR",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-clarifies-interbank-trades-ecbs-coupons-not-part-of-ferr/articleshow/134970942.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T15:14:53+00:00",
+      "summary": "Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv",
+      "sentiment": "neutral",
+      "reason": "Technical regulatory clarification by RBI has minimal equity market impact."
+    },
+    {
+      "title": "India's edible oil imports dip 7 pc to 15.44 lakh ton in Sep: SEA",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-edible-oil-imports-dip-7-pc-to-15-44-lakh-ton-in-sep-sea/articleshow/134969298.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T13:35:02+00:00",
+      "summary": "India's edible oil imports fell by 7 percent in September, totaling 15.44 lakh tonnes. The decline was attributed to a sharp decrease in crude sunflower oil shipments, which dropped significantly. However, total edible oil imports increased by 3 percent for the first eleven months of the oil year. R",
+      "sentiment": "bearish",
+      "reason": "Lower edible oil imports reflect sluggish domestic consumption demand."
+    },
+    {
+      "title": "Rupee strengthens to 95.05 a dollar while forward premiums hit four-year high amid RBI measures",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-strengthens-to-95-05-a-dollar-as-forward-premiums-hit-four-year-high-amid-rbi-measures/articleshow/134968902.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T13:08:20+00:00",
+      "summary": "The rupee concluded the day on Thursday with a gain of 10 paise, reaching 95.05 against the dollar. This strengthening occurred as forward premiums climbed to levels not seen in more than four years, creating a climate of uncertainty. The Reserve Bank of India took actions that impacted substantial ",
+      "sentiment": "bullish",
+      "reason": "Rupee strengthening and high forward premiums signal robust capital inflows."
+    },
+    {
+      "title": "India, Canada to hold next round of trade pact talks in November",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-to-hold-next-round-of-trade-pact-talks-in-november/articleshow/134968460.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T12:57:05+00:00",
+      "summary": "India and Canada will conduct the next round of negotiations for the Comprehensive Economic Partnership Agreement in early November. The fifth round of negotiations was recently completed on October 9 in Canada. Discussions between Commerce Minister Piyush Goyal and Canadian counterpart Maninder Sid",
+      "sentiment": "neutral",
+      "reason": "Bilateral trade talks are positive for long-term economic ties."
+    },
+    {
+      "title": "Bayer partners with Absolute’s INERA to expand biological crop nutrition in India",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/bayer-partners-with-absolutes-inera-to-expand-biological-crop-nutrition-in-india/articleshow/134965663.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T12:26:37+00:00",
+      "summary": "Bayer will market and distribute a biological crop nutrition solution developed by Absolute’s agricultural biotechnology arm INERA, aiming to expand access to inputs designed to improve nutrient-use efficiency and support climate-resilient farming. The collaboration combines INERA’s biological resea",
+      "sentiment": "neutral",
+      "reason": "Agri-tech partnership benefits specific sector without broad market impact."
+    },
+    {
+      "title": "RBI issues clarifications on forex hedging curbs",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-issues-clarifications-on-forex-hedging-curbs-rupee-vs-dollar-rate/articleshow/134967399.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T12:04:12+00:00",
+      "summary": "The Reserve Bank of India issued clarifications on its recent measures to support the rupee. This followed concerns about tighter hedging rules and cash margins on certain derivatives. Several lenders have held back on quoting dollar-rupee forwards due to confusion regarding transaction requirements",
+      "sentiment": "neutral",
+      "reason": "Regulatory clarifications provide operational clarity for forex participants."
+    },
+    {
+      "title": "Haryana's paddy procurement crosses 15.52 LT, Rs 1,221 crore disbursed to farmers",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/haryanas-paddy-procurement-crosses-15-52-lt-rs-1221-crore-disbursed-to-farmers/articleshow/134966097.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-15T11:31:29+00:00",
+      "summary": "Government agencies in Haryana have successfully purchased 15.52 lakh tonnes of paddy during the Kharif procurement operations. A total of Rs 1,221 crore has been disbursed to farmers to support their financial needs. The Chief Secretary reviewed the ongoing procurement efforts and emphasized the im",
+      "sentiment": "neutral",
+      "reason": "Standard agricultural procurement data with localized rural impact."
+    },
+    {
+      "title": "Mutual funds halt fresh investments in gold FoFs amid rupee pressure",
+      "url": "https://www.business-standard.com/markets/mutual-fund/mutual-funds-halt-fresh-investments-gold-funds-of-funds-126101600333_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-10-16T05:39:44+00:00",
+      "summary": "Fund houses have stopped fresh lump-sum investments and new SIP, STP and switch registrations in gold FoFs from Friday, while existing transactions and investments in gold ETFs remain open",
+      "sentiment": "bearish",
+      "reason": "Gold fund halts reflect currency pressures and investor caution."
+    },
+    {
+      "title": "Stock Market LIVE: Tech Mahindra, Infosys lead 400-pt gain in Sensex; SMIDs trade mixed",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-10-16T07:10:44+00:00",
+      "summary": "Sensex Today | Stock Market LIVE Updates Friday: In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.19 per cent and 0.14 per cent, respectively",
+      "sentiment": "bullish",
+      "reason": "IT majors driving strong index gains boost market confidence."
+    },
+    {
+      "title": "Pernod Ricard India sales grow 19% in Sep quarter; IPO plan awaits approval",
+      "url": "https://www.business-standard.com/companies/news/pernod-ricard-india-sales-grow-19-in-sep-quarter-ipo-plan-awaits-approval-126101501204_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-10-15T18:12:36+00:00",
+      "summary": "Pernod Ricard reported 19% sales growth in India in the September quarter, while its proposed IPO remains under discussion pending board approval",
+      "sentiment": "neutral",
+      "reason": "Robust sales growth offset by pending IPO approval."
+    }
+  ]
+}
