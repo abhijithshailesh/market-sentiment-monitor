@@ -1,0 +1,543 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T08:03:18.119646Z",
+  "overall_sentiment": "bearish",
+  "summary": "Indian stock markets experienced sharp downward pressure today, with the Sensex sinking over 800 points and the Nifty slipping below 22,950 amid heavy selling in private bank stocks and persistent foreign institutional outflows. Global market volatility, tech sell-offs in Asia, and policy headwinds like the curb on ethanol diversion for sugar stocks further dampened sentiment. However, pockets of resilience remained visible through robust primary market activity, a major RBI liquidity infusion, and strong corporate earnings from select mid-caps.",
+  "bullish_count": 19,
+  "bearish_count": 21,
+  "neutral_count": 19,
+  "headline_count": 59,
+  "headlines": [
+    {
+      "title": "Global Market: Indonesia stock exchange to meet MSCI after downgrade warning triggers market rout",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T07:45:06+00:00",
+      "summary": "Indonesia’s stock exchange will meet MSCI on Monday to seek clarity over a warning that could strip the country of its emerging-market status. The threat triggered a sharp selloff, wiping $65 billion off market capitalisation on Friday. A downgrade could prompt foreign fund outflows and weaken inves",
+      "sentiment": "bearish",
+      "reason": "Negative global market cues and MSCI downgrade warnings hurt sentiment."
+    },
+    {
+      "title": "Global Market: Eurozone bond selloff to weigh on growth, curb inflation, Lagarde says",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-bond-selloff-to-weigh-on-growth-curb-inflation-lagarde-says/articleshow/135043065.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T07:41:07+00:00",
+      "summary": "ECB President Christine Lagarde warned that a global bond selloff is tightening euro zone financial conditions, raising borrowing costs and weighing on growth. Policymakers face a challenge balancing persistent energy-driven inflation risks against slowing economic activity.",
+      "sentiment": "neutral",
+      "reason": "Mixed eurozone bond signals have limited direct impact on India."
+    },
+    {
+      "title": "HFCL Q2 Results: Profit zooms 448% YoY to Rs 394 crore; stock hits 5% upper circuit",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-results-profit-zooms-448-yoy-to-rs-394-crore-stock-hits-5-upper-circuit/articleshow/135042693.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T07:12:14+00:00",
+      "summary": "HFCL reported a 448% year-on-year jump in Q2FY27 net profit to Rs 394 crore, compared with Rs 71.92 crore a year ago. Revenue surged 144% to Rs 2,542 crore, while EBITDA rose 224% to Rs 658 crore. EBITDA margin expanded 640 basis points to 25.89%. The optical fibre and AI beneficiary’s stock hit the",
+      "sentiment": "bullish",
+      "reason": "Massive 448% profit jump drives strong buying in the stock."
+    },
+    {
+      "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-one-has-the-growth-the-other-has-the-valuation-edge-which-stock-to-buy/articleshow/135042271.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T06:56:19+00:00",
+      "summary": "ICICI Bank has outperformed HDFC Bank in 2026, supported by stronger loan growth, deposits and profitability. While ICICI commands a valuation premium, HDFC’s 28% stock decline has created a potential recovery opportunity. Brokerages see scope for HDFC’s margins to improve, but narrowing the growth ",
+      "sentiment": "neutral",
+      "reason": "Analytical comparison offers balanced views without clear market direction."
+    },
+    {
+      "title": "How to trade Tech Mahindra shares after 22% rally in 4 days? Technical expert weighs in",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-tech-mahindra-shares-after-22-rally-in-4-days-technical-expert-weighs-in/articleshow/135041900.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T06:36:37+00:00",
+      "summary": "Tech Mahindra shares fell 2.1% after a sharp post-results rally, as investors booked profits. Brokerages remain divided, with Nuvama projecting 25% earnings growth over two years, while Nomura maintains a Neutral rating amid a focus on future growth and margins.",
+      "sentiment": "neutral",
+      "reason": "Technical trading query does not impact broader market direction."
+    },
+    {
+      "title": "India bonds rise after flat open as sharp drop in US yields spurs value buying",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-after-flat-open-as-sharp-drop-in-us-yields-spurs-value-buying/articleshow/135041797.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T06:28:58+00:00",
+      "summary": "The Indian government bond market saw a positive turnaround as US Treasury yields declined, prompting significant value purchases. The benchmark 6.94% bond maturing in 2036 observed a yield of 7.3551% in morning trading. Concurrently, oil prices dipped, fueled by expectations of improved supply foll",
+      "sentiment": "bullish",
+      "reason": "Lower US yields and rising local bonds support market sentiment."
+    },
+    {
+      "title": "PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Why the sharp divide?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/psu-bank-stocks-soar-up-to-8-but-hdfc-axis-and-other-private-lenders-fall-up-to-5-after-q2-results-why-the-sharp-divide/articleshow/135041687.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T06:24:40+00:00",
+      "summary": "PSU bank stocks surged up to 8% on Monday, led by Punjab National Bank after its Q2FY27 earnings beat estimates. In contrast, private lenders such as Axis Bank and HDFC Bank fell up to 5% despite reporting profit growth. The Nifty PSU Bank index gained over 2%, while its private-sector counterpart d",
+      "sentiment": "neutral",
+      "reason": "Divergent results between PSU and private banks cancel each other out."
+    },
+    {
+      "title": "Global Market: South Korea regulator says Solidigm US listing may breach dual-listing rules",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-south-korea-regulator-says-solidigm-us-listing-may-breach-dual-listing-rules/articleshow/135041638.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T06:19:13+00:00",
+      "summary": "South Korean regulators are examining whether a US listing of SK Hynix subsidiary Solidigm would breach dual-listing rules. The review raises questions about minority shareholder protections as the company reportedly considers an IPO valuing it at up to $150 billion.",
+      "sentiment": "neutral",
+      "reason": "South Korean regulatory issues are irrelevant to Indian equities."
+    },
+    {
+      "title": "Jio Platforms IPO GMP signals 22% potential listing gain; issue opens on October 21",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-gmp-signals-22-potential-listing-gain-issue-opens-on-october-21/articleshow/135041581.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T06:15:54+00:00",
+      "summary": "Jio Platforms’ Rs 30,213-crore IPO will open for subscription on October 21 and close on October 23, 2026. The issue comprises a fresh issue of 27 crore equity shares, with allotment expected on October 26 and listing tentatively scheduled for October 28 on the BSE and NSE.",
+      "sentiment": "bullish",
+      "reason": "High IPO grey market premium drives positive market sentiment."
+    },
+    {
+      "title": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/did-mutual-funds-stop-gold-investments-what-investors-need-to-know/videoshow/135040974.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:41:55+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Informational query about mutual fund gold investment trends."
+    },
+    {
+      "title": "PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-8-after-q2-results-beat-estimates-jefferies-motilal-oswal-others-raise-target-prices/articleshow/135040821.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:35:53+00:00",
+      "summary": "Punjab National Bank shares rose sharply on Monday after the lender reported a 13% year-on-year rise in Q2FY27 net profit to Rs 5,532 crore. Stronger net interest income and improving asset quality prompted bullish brokerage calls, with Jefferies, Motilal Oswal and JM Financial setting target prices",
+      "sentiment": "bullish",
+      "reason": "Strong Q2 results and target upgrades boost banking stocks."
+    },
+    {
+      "title": "Global markets face fresh volatility as earnings season gains pace",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-face-fresh-volatility-as-earnings-season-gains-pace/slideshow/135040791.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:24:10+00:00",
+      "summary": "A look at key global market drivers this week, from US corporate earnings and China’s economic data to bond yields, Brazil’s election and central bank policy decisions.",
+      "sentiment": "bearish",
+      "reason": "Global volatility negatively impacts domestic equity market sentiment."
+    },
+    {
+      "title": "PC Jeweller shares soar 26% in just two sessions. Here’s what’s triggering the sharp surge",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-soar-26-in-just-two-sessions-heres-whats-triggering-the-sharp-surge/articleshow/135040565.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:21:56+00:00",
+      "summary": "PC Jeweller shares rallied 26% in two sessions after Cupid promoter Aditya Kumar Halwasiya bought 5.10 crore shares worth Rs 73.60 crore. The jewellery maker recently repaid its dues to 14 consortium banks, achieving debt-free status ahead of schedule.",
+      "sentiment": "bullish",
+      "reason": "Strong stock rally driven by specific positive triggers."
+    },
+    {
+      "title": "Easy exits hurting Indian stocks: Nirmala Sitharaman explains why equities are underperforming",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/easy-exits-hurting-indian-stocks-nirmala-sitharaman-explains-why-equities-are-underperforming/articleshow/135040491.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:16:00+00:00",
+      "summary": "Finance Minister Nirmala Sitharaman says easy liquidity is allowing investors to exit Indian equities as the Nifty and Sensex struggle to deliver positive returns. Foreign investors have pulled out nearly $63.6 billion since October 2024, erasing nine years of inflows, amid rising US yields, a stron",
+      "sentiment": "bearish",
+      "reason": "Regulatory concerns on easy exits highlight underperformance risks."
+    },
+    {
+      "title": "Kross shares rally 16% after Q2 profit jumps 143% YoY; stock hits 52-week high",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kross-shares-rally-16-after-q2-profit-jumps-143-yoy-stock-hits-52-week-high/articleshow/135040431.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:12:40+00:00",
+      "summary": "Kross shares surged following strong Q2 FY27 results, with revenue rising 80% and net profit climbing 143% year-on-year. EBITDA more than doubled, while margins improved. Robust commercial vehicle demand, capacity expansion and operational efficiencies supported growth, alongside increased instituti",
+      "sentiment": "bullish",
+      "reason": "Massive profit surge drives strong rally in Kross shares."
+    },
+    {
+      "title": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for the year",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-october-20-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135040341.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:09:02+00:00",
+      "summary": "The NSE and BSE will remain closed on October 20 for Dussehra. With 12 of the 16 scheduled stock market holidays for 2026 already passed, three more holidays remain after the October closure. These include Diwali-Balipratipada on November 10, Guru Nanak Jayanti on November 24 and Christmas on Decemb",
+      "sentiment": "neutral",
+      "reason": "Routine informational update regarding stock market holiday schedule."
+    },
+    {
+      "title": "Global Market: China’s yuan hits four-year high as strong GDP data ease stimulus concerns",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-strong-gdp-data-ease-stimulus-concerns/articleshow/135040279.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:06:21+00:00",
+      "summary": "China’s yuan strengthened to a four-year high against the US dollar following stronger-than-expected third-quarter economic growth and improving retail sales. A weaker dollar and increased corporate currency conversions also supported gains. Investors now await Chinese policymakers’ signals on monet",
+      "sentiment": "bullish",
+      "reason": "Strong Chinese GDP data boosts positive regional market sentiment."
+    },
+    {
+      "title": "Ixigo shares rally 13% after travel platform reports all-time high profit",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-shares-rally-13-after-travel-platform-reports-all-time-high-profit/articleshow/135040268.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:03:40+00:00",
+      "summary": "Ixigo shares jumped after the travel platform reported a record Q2 profit of Rs 63.42 crore, partly boosted by the sale of its stake in Freshbus. Gross transaction value rose 22% year-on-year to Rs 5,304.47 crore, while revenue grew 13% to Rs 320.96 crore and contribution margin increased 14% to Rs ",
+      "sentiment": "bullish",
+      "reason": "Record profits drive strong buying interest in Ixigo shares."
+    },
+    {
+      "title": "Global Market: Japan’s Nikkei falls 2% as tech selloff, rising oil prices fuel inflation fears",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-2-as-tech-selloff-rising-oil-prices-fuel-inflation-fears/articleshow/135040186.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:00:36+00:00",
+      "summary": "Japan’s Nikkei 225 fell as US technology stock losses and rising oil prices heightened inflation and interest rate concerns. Semiconductor stocks led declines, while defensive and value shares offered potential support. Bank of Japan Governor Kazuo Ueda highlighted inflation near the 2% target, keep",
+      "sentiment": "bearish",
+      "reason": "Tech selloff and inflation fears in Japan weigh on sentiment."
+    },
+    {
+      "title": "Sugar stocks Balrampur Chini, Bajaj Sugar, others crash up to 7% as centre stops diversion to ethanol",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/balrampur-chini-other-sugar-stocks-slide-up-to-6-as-govt-halts-diversion-to-ethanol/articleshow/135040164.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T05:00:09+00:00",
+      "summary": "Sugar stocks dropped in early trading following the government's directive to cease sugar diversion for ethanol production. The decision impacts major sugar companies like Balrampur Chini Mills and Bajaj Hindusthan Sugar, which experienced a decline between 2% and 7%. This directive aims to enhance ",
+      "sentiment": "bearish",
+      "reason": "Policy halt on ethanol diversion directly crashes sugar stocks."
+    },
+    {
+      "title": "Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-fall-as-us-tech-selloff-fuels-safe-haven-demand/articleshow/135039965.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:49:26+00:00",
+      "summary": "Japanese government bond yields fell as a selloff in US technology stocks triggered demand for safer assets. Prime Minister Sanae Takaichi’s pledge to control debt issuance also supported sentiment, while Bank of Japan rate expectations remained in focus.",
+      "sentiment": "neutral",
+      "reason": "Safe-haven demand from US tech selloff creates mixed signals."
+    },
+    {
+      "title": "Tech picks: Indian Hotels among 5 stocks to buy for healthy returns in short term",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-indian-hotels-among-5-stocks-to-buy-for-healthy-returns-in-short-term/slideshow/135039935.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:36:45+00:00",
+      "summary": "The Indian stock market is rebounding, powered by robust investments in IT sectors and encouraging earnings reports. Analysts highlight five stocks as prime buying opportunities, projecting solid short-term gains. Indian Hotels, Lemon Tree, and Supreme Industries make the list. While technical indic",
+      "sentiment": "bullish",
+      "reason": "Analyst recommendations on specific stocks encourage short-term buying."
+    },
+    {
+      "title": "Bulls lose ground! Sensex sinks over 800 points, Nifty slips below 22,950; 5 key triggers behind selloff",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:34:53+00:00",
+      "summary": "The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. Nevertheless, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark co",
+      "sentiment": "bearish",
+      "reason": "Sharp Sensex and Nifty selloff indicates strong bearish momentum."
+    },
+    {
+      "title": "Holding company discount after Jio IPO: What is it &amp; how will it impact RIL shares?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/holding-company-discount-after-jio-ipo-what-is-it-how-will-it-impact-ril-shares/articleshow/135039648.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:32:09+00:00",
+      "summary": "Jio Platforms IPO: Jio Platforms is preparing to unveil its initial public offering, enhancing its valuation significantly. Analysts foresee a potential reduction in the holding company discount for Reliance Industries post-IPO. While some experts believe the anticipated changes are already included",
+      "sentiment": "neutral",
+      "reason": "Structural holding company valuation impact requires careful assessment."
+    },
+    {
+      "title": "Global Market: South Korean shares fall as AI investment worries weigh on chipmakers",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-as-ai-investment-worries-weigh-on-chipmakers/articleshow/135039691.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:31:57+00:00",
+      "summary": "South Korea’s Kospi fell as AI investment concerns triggered technology stock selling, although dip buying helped recover early losses. Semiconductor shares remained weak, while automakers, battery makers and select heavyweight stocks gained. Foreign investors were net sellers, while currency and bo",
+      "sentiment": "bearish",
+      "reason": "Global tech sell-off dampens domestic investor sentiment."
+    },
+    {
+      "title": "Yes Bank shares rise as Q2 profit beats estimates, but AT1 bond verdict hit pegged at Rs 5,217 crore. What lies ahead?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-rise-as-q2-profit-beats-estimates-but-at1-bond-verdict-hit-pegged-at-rs-5217-crore-what-lies-ahead/articleshow/135039620.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:28:24+00:00",
+      "summary": "Yes Bank shares rose after falling 17% over two sessions, following a 65% year-on-year jump in Q2 net profit to Rs 1,080 crore. However, the lender cautioned that the reported earnings exclude the potential impact of the Supreme Court’s AT1 bond ruling.",
+      "sentiment": "neutral",
+      "reason": "Strong profit countered by massive AT1 bond provision."
+    },
+    {
+      "title": "HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-2-after-q2-results-what-are-jefferies-motilal-oswal-analysts-saying/articleshow/135039640.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:26:35+00:00",
+      "summary": "HDFC Bank shares fell up to 2% after the lender reported a 4.6% year-on-year rise in Q2 FY27 net profit to Rs 19,510 crore. Jefferies, Motilal Oswal, Systematix and Emkay retained positive ratings, citing margin recovery potential and leadership transition.",
+      "sentiment": "bearish",
+      "reason": "Post-results profit booking weighs on banking heavyweight."
+    },
+    {
+      "title": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:23:11+00:00",
+      "summary": "Urban Company shares fell sharply on Monday after its Q2FY27 net loss more than tripled YoY to Rs 182 crore, driven by investments in InstaHelp. Revenue rose 41% year-on-year to Rs 537 crore. Motilal Oswal maintained a Neutral rating but cut its target price to Rs 165, citing profitability concerns ",
+      "sentiment": "bearish",
+      "reason": "Widening net losses trigger selling in the startup."
+    },
+    {
+      "title": "ICICI Bank share price target after Q2 results: What are Jefferies, other analysts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-share-price-target-after-q2-results-what-are-jefferies-other-analysts-saying/articleshow/135039483.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:18:13+00:00",
+      "summary": "ICICI Bank Share Price: ICICI Bank shares rose after Q2FY27 net profit increased 20.1% year-on-year to Rs 14,843 crore, while net interest income grew 17.7% to Rs 25,339 crore. Jefferies maintained its ‘Buy’ rating with a target price of Rs 1,750, implying 25% upside, citing improving margins and ex",
+      "sentiment": "neutral",
+      "reason": "Brokerage reports offer mixed views on earnings performance."
+    },
+    {
+      "title": "US Market: Wall Street’s AI rally faces test as Meta earnings loom",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-streets-ai-rally-faces-test-as-meta-earnings-loom/articleshow/135039431.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:15:16+00:00",
+      "summary": "Wall Street’s AI-driven rally faces a crucial test as Meta, semiconductor makers and major companies report quarterly earnings. Investors will scrutinise AI infrastructure spending, profitability prospects, valuations and chip demand. Rising Treasury yields and potential Federal Reserve rate hikes a",
+      "sentiment": "bearish",
+      "reason": "Impending tech earnings create nervousness in global cues."
+    },
+    {
+      "title": "11 years, zero net FII flow: How a $64 billion outflow erased 9 years of equity buying",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-years-zero-net-fii-flow-how-a-64-billion-outflow-erased-9-years-of-equity-buying/articleshow/135039441.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:15:13+00:00",
+      "summary": "Foreign institutional investors have dramatically pulled back from Indian equities, reversing nearly nine years of consistent investment. A massive $63.6 billion in outflows occurred, particularly pronounced in 2026. Industries suffering the most include financial services, automobiles, and oil and ",
+      "sentiment": "bearish",
+      "reason": "Persistent FII outflows highlight structural foreign capital withdrawal."
+    },
+    {
+      "title": "Bonfiglioli Transmissions IPO Day 3: GMP at 22%, issue subscribed 99%; Should you apply?",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-day-3-gmp-at-22-issue-subscribed-99-should-you-apply/articleshow/135039410.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:12:49+00:00",
+      "summary": "Bonfiglioli Transmissions’ Rs 2,534-crore IPO entered its final day of bidding on October 19, with the grey market premium (GMP) easing to 22% from 30% earlier, indicating moderating expectations for listing gains. The IPO is entirely an offer for sale (OFS) of 4.32 crore shares, meaning the company",
+      "sentiment": "bullish",
+      "reason": "Healthy subscription and positive GMP signal strong demand."
+    },
+    {
+      "title": "Sahajanand Medical Technologies IPO Day 3: GMP at 7%; check subscription status and key details",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-day-3-gmp-at-7-check-subscription-status-and-key-details/articleshow/135039386.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T04:11:09+00:00",
+      "summary": "Sahajanand Medical Technologies’ IPO enters its final bidding day with 82% subscription on Day 2 and a 7% grey market premium. The Rs 475.48 crore offer is entirely an offer for sale. Investors will monitor subscription trends, listing expectations and strong FY26 profit growth before the shares deb",
+      "sentiment": "bullish",
+      "reason": "Moderate GMP and active subscription signal healthy primary market interest."
+    },
+    {
+      "title": "Axis Bank shares fall over 4% despite 38% YoY jump in Q2 net profit. Why brokerages are revising target prices",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-results-why-jefferies-remains-bullish-even-as-other-brokerages-reduce-target-prices/articleshow/135039127.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:51:26+00:00",
+      "summary": "Axis Bank reported a 38% year-on-year rise in standalone net profit to Rs 7,003 crore in Q2 FY27, while net interest income rose 12%. Jefferies retained its Buy rating, while Centrum Broking and Dolat Capital lowered their target prices.",
+      "sentiment": "bearish",
+      "reason": "Profit growth fails to prevent sharp sell-off amid broker target cuts."
+    },
+    {
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv News",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-19-oct-2026/liveblog/135039057.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:45:21+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine live stock updates without clear directional market catalysts."
+    },
+    {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Performance Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-19-oct-2026/liveblog/135038880.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:35:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard stock performance tracking lacks immediate market-moving direction."
+    },
+    {
+      "title": "RBI announces $10.5 billion liquidity infusion via repo",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-announces-10-5-billion-liquidity-infusion-via-repo/articleshow/135038836.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:33:42+00:00",
+      "summary": "The RBI will infuse up to 1 trillion rupees ($10.53 billion) through the operation, which traders said must be to help lenders tide over tax outflows amid tightening of the daily cash reserve requirement.",
+      "sentiment": "bullish",
+      "reason": "Central bank liquidity infusion boosts overall market sentiment and liquidity."
+    },
+    {
+      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Struggles Below Support Level",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-today-live-19-oct-2026/liveblog/135038823.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:30:40+00:00",
+      "summary": "",
+      "sentiment": "bearish",
+      "reason": "Stock struggling below key support indicates persistent technical weakness."
+    },
+    {
+      "title": "IDBI Bank shares in focus as Q2 net profit falls 39%; NII tanks nearly 50% YoY",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-in-focus-as-q2-net-profit-falls-39-nii-tanks-nearly-50-yoy/articleshow/135038766.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:27:46+00:00",
+      "summary": "IDBI Bank reported a 39% YoY decline in Q2 FY27 net profit, partly due to a one-off gain in the previous year. Despite this, underlying profitability, margins, asset quality, deposits and advances showed improvement. Meanwhile, Fairfax Financial’s proposed 60.72% stake acquisition marks a major mile",
+      "sentiment": "bearish",
+      "reason": "Steep drop in quarterly net profit and NII pressures bank shares."
+    },
+    {
+      "title": "Tonbo Imaging India IPO Day 3: GMP at 74%, issue subscribed over 7x. Check key details",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imaging-india-ipo-day-3-gmp-at-74-issue-subscribed-over-7x-check-key-details/articleshow/135038712.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:25:02+00:00",
+      "summary": "Tonbo Imaging India’s IPO closes amid strong investor demand, with 7.78 times subscription by Day 2 and a grey market premium of 74%. The Rs 852.18 crore issue is entirely an offer for sale. Investors will track allotment, listing expectations and the defence technology company’s declining FY26 fina",
+      "sentiment": "bullish",
+      "reason": "Strong subscription and high GMP indicate robust investor demand for IPO."
+    },
+    {
+      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Trading Price",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-19-oct-2026/liveblog/135038711.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:21:31+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard live price update for HDFC Life stock."
+    },
+    {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Current Price Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-livestock-price-today-live-updates-19-oct-2026/liveblog/135038704.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:21:12+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine market price update for UltraTech Cement."
+    },
+    {
+      "title": "ICICI Bank Share Price Live Updates: Market Update: ICICI Bank's Trading Activity",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-19-oct-2026/liveblog/135038693.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:20:37+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Regular trading activity update for ICICI Bank."
+    },
+    {
+      "title": "L&amp;T Finance among 4 F&amp;O stocks with a sharp rise in futures open interest",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135038726.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:19:00+00:00",
+      "summary": "A slideshow exploring four NSE F&amp;O stocks that witnessed a sharp increase in futures open interest on October 16, highlighting changing market participation and notable shifts in derivatives activity.",
+      "sentiment": "bullish",
+      "reason": "Surge in futures open interest indicates strong trader interest."
+    },
+    {
+      "title": "U-turn from regulator may be new lifeline to Indian derivatives",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-from-regulator-may-be-new-lifeline-to-indian-derivatives/articleshow/135038625.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:17:36+00:00",
+      "summary": "The return of a stable settlement system in India's equity-derivatives market could signal a promising recovery. Following the tumultuous closure auction process introduced in August, regulators are aiming to restore order. Market players are optimistic that this newfound clarity will not only enhan",
+      "sentiment": "bullish",
+      "reason": "Potential regulatory U-turn provides relief to derivatives market."
+    },
+    {
+      "title": "Axis Bank Share Price Live Updates: PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Why the sharp divide?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038578.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:10:43+00:00",
+      "summary": "",
+      "sentiment": "bearish",
+      "reason": "Private lenders fall up to 5% following Q2 results."
+    },
+    {
+      "title": "UPL Share Price Live Updates: UPL's Price Movement Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-today-live-updates-19-oct-2026/liveblog/135038574.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:10:27+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine price movement update for UPL shares."
+    },
+    {
+      "title": "HFCL among 3 stocks closing above VWAP",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-3-stocks-closing-above-vwap/slideshow/135038565.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:05:59+00:00",
+      "summary": "HBL Engineering, SPR Auto Technologies and HFCL featured in StockEdge’s VWAP scan on October 16, with closing prices more than 2% above their volume-weighted average prices.",
+      "sentiment": "bullish",
+      "reason": "Closing above VWAP indicates strong intraday buying momentum."
+    },
+    {
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038516.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:05:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard live price tracking lacks directional market catalyst."
+    },
+    {
+      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Market Performance Snapshot",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-19-oct-2026/liveblog/135038500.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-10-19T03:03:23+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine performance snapshot without broader market implications."
+    },
+    {
+      "title": "America very close to finalising trade deal with India: Marco Rubio",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/america-very-close-to-finalising-trade-deal-with-india-marco-rubio/videoshow/135041177.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-19T05:53:51+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "US-India trade deal boosts investor confidence and exports."
+    },
+    {
+      "title": "US very close to finalising trade deal with India, says Marco Rubio",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-very-close-to-finalising-trade-deal-with-india-says-marco-rubio/articleshow/135040499.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-19T05:19:01+00:00",
+      "summary": "US Secretary of State Marco Rubio said on Monday that Washington is close to finalising a trade deal with India. He said the US considers various factors, including ongoing trade negotiations, while making decisions on national security waivers related to Russian oil and gas sanctions.",
+      "sentiment": "bullish",
+      "reason": "Trade deal optimism supports bilateral economic growth outlook."
+    },
+    {
+      "title": "Exporters may be asked to monitor supply chains' indirect emissions",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exporters-may-be-asked-to-monitor-supply-chains-indirect-emissions/articleshow/135034846.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-18T19:30:53+00:00",
+      "summary": "The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul",
+      "sentiment": "bearish",
+      "reason": "Increased compliance costs for exporters create margin pressure."
+    },
+    {
+      "title": "Farmers face 15% loss as poultry feed costs surge",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/farmers-face-15-loss-as-poultry-feed-costs-surge/articleshow/135034818.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-18T19:24:32+00:00",
+      "summary": "Poultry farmers are currently experiencing losses of approximately 15% due to rising livestock feed costs. Key ingredients have seen price increases of up to 75%, affecting farmers' ability to cope. Dairy producers, particularly in drought-affected regions, struggle to source necessary fodder for th",
+      "sentiment": "bearish",
+      "reason": "Surging feed costs negatively impact the agricultural sector."
+    },
+    {
+      "title": "Global investors against use of judicial anti-avoidance rule by tax officials",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/global-investors-against-use-of-judicial-anti-avoidance-rule-by-tax-officials/articleshow/135033062.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-18T17:47:00+00:00",
+      "summary": "International investors have raised concerns regarding the Indian Income-tax authorities' invocation of the judicial anti-avoidance rule. At a recent meeting, investors communicated their issues with the Central Board of Direct Taxes on this matter. The use of JAAR to deny relief on grandfathered sh",
+      "sentiment": "bearish",
+      "reason": "Tax uncertainty deters foreign institutional investor capital inflows."
+    },
+    {
+      "title": "India's exports rise across geographies; Africa, ASEAN lead growth in Apr-Aug",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-surge-africa-and-asean-drive-growth-in-key-markets/articleshow/135030347.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-10-18T14:38:03+00:00",
+      "summary": "India's merchandise exports increased significantly across different regions from April to August this fiscal year. Exports to Africa saw a notable rise of 47 percent, reaching USD 26.19 billion. The ASEAN region also experienced a substantial growth of 56 percent in exports, totaling USD 23.08 bill",
+      "sentiment": "bullish",
+      "reason": "Rising export growth indicates strong external economic demand."
+    },
+    {
+      "title": "Sensex crashes 765 pts intraday: Bank stocks, FPI selling among key factors",
+      "url": "https://www.business-standard.com/markets/news/sensex-crashes-765-pts-intraday-bank-stocks-fpi-selling-among-key-factors-126101900390_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-10-19T07:15:45+00:00",
+      "summary": "Stock market crash: The Indian benchmark indices, Sensex and Nifty, snapped their two-day gaining streak and declined 1 per cent today.",
+      "sentiment": "bearish",
+      "reason": "Intraday crash driven by bank sell-off and FPI outflows."
+    },
+    {
+      "title": "​LTCG tax cut alone won't lure FPIs, says Bernstein; Nifty target cut to 25k",
+      "url": "https://www.business-standard.com/markets/news/ltcg-tax-cut-alone-won-t-lure-fpis-says-bernstein-nifty-target-cut-to-25k-126101900230_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-10-19T05:09:38+00:00",
+      "summary": "A sharp 1-2 day market rally that an LTCG cut would trigger may actually be used to offload positions, Bernstein said in an October 19 note.",
+      "sentiment": "bearish",
+      "reason": "FPI concerns persist and Nifty target has been lowered."
+    },
+    {
+      "title": "Stock Market LIVE: Sensex at day's low, falls 750 pts, Nifty near 22,900; bank shares weigh",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-10-19T07:41:25+00:00",
+      "summary": "Sensex Today | Stock Market LIVE Updates Monday: In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.13 per cent and 0.19 per cent, respectively",
+      "sentiment": "bearish",
+      "reason": "Sensex hits day low with heavy weighing from banks."
+    }
+  ]
+}
