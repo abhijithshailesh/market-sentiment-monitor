@@ -1,0 +1,606 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T09:48:06.194581Z",
+  "overall_sentiment": "bullish",
+  "summary": "Indian stock markets are experiencing a strong positive wave today, with the Sensex surging over 2,000 points and the Nifty climbing above 24,500. This impressive rally is heavily supported by robust technical momentum, positive Asian market cues, and strong buying interest in key heavyweights and festive picks. While global factors like oil prices and US policy risks remain on the radar, retail investor sentiment is decidedly upbeat as key indices push higher.",
+  "bullish_count": 10,
+  "bearish_count": 0,
+  "neutral_count": 56,
+  "headline_count": 66,
+  "headlines": [
+    {
+      "title": "EPL Q2 Results: Profit rises 4% YoY to Rs 111 crore",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/epl-q2-results-profit-rises-4-yoy-to-rs-111-crore/articleshow/135565623.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T08:32:12+00:00",
+      "summary": "EPL reported a notable 4.52% increase in net profit, reaching Rs 110.9 crore for the September quarter of FY27. With revenues from operations climbing to Rs 1,567.4 crore, a 30% year-on-year growth, the Beauty &amp; Cosmetics and Oral Care segments played pivotal roles. Despite higher expenses, the ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "India bonds climb in step with Treasuries as oil sinks",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-climb-in-step-with-treasuries-as-oil-sinks/articleshow/135564784.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T08:02:52+00:00",
+      "summary": "Indian government bonds increased for the fourth consecutive session following a Democratic win in the US midterm elections. This victory led to a decline in crude oil prices, easing inflation concerns for India. The 10-year US Treasury yield also fell significantly, impacting investors' expectation",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Sitaram Denims India files IPO papers with Sebi",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T07:02:00+00:00",
+      "summary": "Sitaram Denims India Ltd plans to launch an initial public offering with two components. The IPO includes a fresh issue of equity shares and an offer for sale by promoters. Proceeds from the fresh issue will be used for various purposes including repayment of borrowings and working capital requireme",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Qualcomm Earnings: 5 key takeaways from Q4 results",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T05:31:44+00:00",
+      "summary": "Qualcomm's revenue declined 8% amid weak smartphone chip demand, while automotive sales surged. Rising costs pressure margins, as AI data centres offer diversification and future growth opportunities.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Alphabet stock jumps 5%: Why Google Parent shares rallied",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabet-stock-jumps-5-why-google-parent-shares-rallied/slideshow/135560292.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T05:20:37+00:00",
+      "summary": "Alphabet shares rallied nearly 5% amid shifting US regulatory expectations, strong Google Cloud growth and investor focus on massive AI infrastructure spending, rising debt and long-term investment returns.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Bharat Electronics among 5 stocks showing White Marubozu pattern",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-among-5-stocks-showing-white-marubozu-pattern/slideshow/135559687.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:51:12+00:00",
+      "summary": "Five Nifty 50 stocks featured in the White Marubozu bullish scanner on November 4, after gaining over 3%. Bharat Electronics led the list, followed by Adani Enterprises, Titan Company, Jio Financial Services and Max Healthcare.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Diwali Dhamaka stocks for portfolio: 10 shares with up to 34% upside potential ICICI Direct is bullish on",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-dhamaka-stocks-for-portfolio-10-shares-with-up-to-34-upside-potential-icici-direct-is-bullish-on/slideshow/135559522.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:47:01+00:00",
+      "summary": "For the festive season, ICICI Direct has identified ten promising stocks that could be wise investments, boasting notable potential for growth. Among these are Venus Pipes and Tubes and Kotak Mahindra Bank. Each stock has specific buying ranges and target prices. Investors should assess their portfo",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Adani Enterprises among 4 Nifty 50 stocks showing bullish RSI upswing",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-among-4-nifty-50-stocks-showing-bullish-rsi-upswing/slideshow/135559417.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:41:41+00:00",
+      "summary": "Four Nifty 50 stocks featured in the RSI Trending Up scan on November 4, indicating improving price momentum. Jio Financial Services, Mahindra &amp; Mahindra, Bajaj Finserv and Adani Enterprises recorded RSI readings above 50.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Cracker stocks this Diwali! Axis Direct selects 12 technical stock with 48% upside potential for Samvat 2083",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cracker-stocks-this-diwali-axis-direct-selects-10-technical-stock-with-48-upside-potential-for-samvat-2083/slideshow/135560312.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:27:46+00:00",
+      "summary": "Aurobindo Pharma, Hindustan Aeronautics, and IOL Chemicals demonstrate solid growth prospects for the coming year. Similarly, Jyoti CNC Automation and Karnataka Bank are expected to experience significant gains according to their long-term performance charts. Noteworthy mentions also include Dr. Lal",
+      "sentiment": "bullish",
+      "reason": "Brokerage recommends 12 stocks with high upside potential for Samvat."
+    },
+    {
+      "title": "HEG Advanced Materials among 3 stocks closing above VWAP",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/heg-advanced-materials-among-3-stocks-closing-above-vwap/slideshow/135558652.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:11:22+00:00",
+      "summary": "Three Nifty50 stocks closed below their respective volume-weighted average prices on November 4, according to StockEdge’s technical scan data, indicating that their closing prices were lower than their average traded prices during the session",
+      "sentiment": "bullish",
+      "reason": "Stocks closing above VWAP indicate strong technical momentum."
+    },
+    {
+      "title": "City Union Bank among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/city-union-bank-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135558474.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:06:29+00:00",
+      "summary": "Five NSE F&amp;O stocks, including City Union Bank, Syrma SGS Technology and Karur Vysya Bank, recorded over 12% growth in futures open interest, indicating increased market positioning on November 4.",
+      "sentiment": "neutral",
+      "reason": "Rise in futures open interest indicates increased trader activity."
+    },
+    {
+      "title": "Gold rates rises over 1%, silver gains marginally on MCX. Check 24K, 22K rates in Delhi, Mumbai, and more states: Live Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-price-today-live-updates-22k-24k-18k-gold-rate-mcx-gold-silver-rate-city-wise-date-latest-gold-news/liveblog/135558270.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T04:05:36+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Gold rate increases often divert capital away from equities."
+    },
+    {
+      "title": "BPCL Share Price Live Updates: BPCL's Current Market Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-today-live-updates-05-nov-2026/liveblog/135557380.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:30:09+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Positive Asian market cues generally support Indian market sentiment."
+    },
+    {
+      "title": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/articleshow/135557308.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:27:09+00:00",
+      "summary": "Asian markets experienced an upswing on Thursday, buoyed by a rebound in U.S. equities following the midterm elections. The Dow Jones leapt over 3% as political shifts occurred, leading to the loss of control for President Trump's party. Meanwhile, South Korea's Kospi mirrored struggles in the tech ",
+      "sentiment": "bullish",
+      "reason": "Impressive share price gains directly reflect positive market sentiment."
+    },
+    {
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv experiences impressive gains",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135557310.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:25:20+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard price movement analysis without a clear directional bias."
+    },
+    {
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Price Movement Analysis",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-05-nov-2026/liveblog/135557282.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:23:49+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Britannia Share Price Live Updates: Britannia's Current Trading Price",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-live-updates-05-nov-2026/liveblog/135557274.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:23:28+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard live price update without directional momentum."
+    },
+    {
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-05-nov-2026/liveblog/135557239.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:21:14+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General performance snapshot lacking clear directional bias."
+    },
+    {
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Performance Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-05-nov-2026/liveblog/135557230.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:20:40+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine stock performance update for the automaker."
+    },
+    {
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Sees Significant Price Surge",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-05-nov-2026/liveblog/135557166.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:16:11+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Significant price surge indicates strong positive momentum."
+    },
+    {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Strong Performance Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-05-nov-2026/liveblog/135557126.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:15:04+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Strong performance signals positive short-term sentiment."
+    },
+    {
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree  Experiences Strong Daily Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-05-nov-2026/liveblog/135557045.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:12:04+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Strong daily performance points to positive momentum."
+    },
+    {
+      "title": "Coal India Share Price Live Updates: Coal India  Stock Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-05-nov-2026/liveblog/135557039.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:11:46+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard stock update without specific directional cues."
+    },
+    {
+      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Price Movement Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-05-nov-2026/liveblog/135557017.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:10:33+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General price movement update lacking strong catalyst."
+    },
+    {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Performance Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-05-nov-2026/liveblog/135557009.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:10:14+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General stock update lacking specific directional catalysts."
+    },
+    {
+      "title": "Tata Steel Share Price Live Updates: Tata Steel's Price Update and Volatility Insights",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-updates-05-nov-2026/liveblog/135556949.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:07:01+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard price update with mixed volatility signals."
+    },
+    {
+      "title": "Dr Reddys Share Price Live Updates: Market Performance of Dr. Reddys",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556947.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:06:57+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine performance tracking without strong directional triggers."
+    },
+    {
+      "title": "Hindalco Share Price Live Updates: Hindalco's Current Market Price",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-05-nov-2026/liveblog/135556937.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:06:39+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard market price update without specific catalysts."
+    },
+    {
+      "title": "RIL Share Price Live Updates: RIL's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-05-nov-2026/liveblog/135556933.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:06:26+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine market position update lacking directional news."
+    },
+    {
+      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ climbs higher in today's trading session",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556925.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:06:07+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Stock climbs higher in today's trading session."
+    },
+    {
+      "title": "Nestle India Share Price Live Updates: Nestle India Stock Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-05-nov-2026/liveblog/135556917.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:05:44+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine stock update without directional momentum."
+    },
+    {
+      "title": "HUL Share Price Live Updates: HUL's Stock Price Movement",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-05-nov-2026/liveblog/135556913.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:05:34+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard price movement tracking without clear signals."
+    },
+    {
+      "title": "Infosys Share Price Live Updates: Infosys Price Update and Trends",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-05-nov-2026/liveblog/135556907.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:05:16+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard live updates without directional price indicators."
+    },
+    {
+      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Experiences Positive Price Action",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-05-nov-2026/liveblog/135556853.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:01:35+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Positive price action indicates upward momentum."
+    },
+    {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Experiences Significant Price Surge",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-live-05-nov-2026/liveblog/135556850.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:01:19+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Significant price surge reflects strong buying interest."
+    },
+    {
+      "title": "Apollo Hospital Share Price Live Updates: Current Market Performance of Apollo Hospital",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556831.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:00:24+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General market performance update with no clear direction."
+    },
+    {
+      "title": "NTPC Share Price Live Updates: NTPC's Stock Price Analysis",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-live-updates-05-nov-2026/liveblog/135556823.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T03:00:05+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Standard stock price analysis without specific triggers."
+    },
+    {
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-05-nov-2026/liveblog/135556759.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:57+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Routine market position update lacking directional bias."
+    },
+    {
+      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp Market Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-live-updates-05-nov-2026/liveblog/135556748.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:37+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "General market update without strong sentiment cues."
+    },
+    {
+      "title": "Cipla Share Price Live Updates: Cipla's Financial Snapshot",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556740.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:23+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Financial snapshot provides data without directional catalysts."
+    },
+    {
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Performance Today",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-05-nov-2026/liveblog/135556739.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:22+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "L&amp;T Share Price Live Updates: L&amp;T's Current Market Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-05-nov-2026/liveblog/135556737.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:21+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "TCS Share Price Live Updates: TCS Market Activity: Current Price and SMA Insights",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556727.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:05+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "SBI Share Price Live Updates: SBI's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-05-nov-2026/liveblog/135556726.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Wipro Share Price Live Updates: Wipro's Stock Price Analysis",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-05-nov-2026/liveblog/135556725.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:55:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Market Position",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-05-nov-2026/liveblog/135556653.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:50:20+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "M&amp;M Share Price Live Updates: M&amp;M's Stock Price Climbs",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-updates-05-nov-2026/liveblog/135556651.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:50:05+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Stock Price Movement",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-05-nov-2026/liveblog/135556641.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:49:14+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer's Stock Update",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556635.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:48:57+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Market Performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-05-nov-2026/liveblog/135556633.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-05T02:48:41+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Centre issues advisory to states to boost fodder production, livestock infra under VB-G RAM G",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/centre-issues-advisory-to-states-to-boost-fodder-production-livestock-infra-under-vb-g-ram-g/articleshow/135566193.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T08:50:06+00:00",
+      "summary": "The Centre has issued an advisory to states and Union territories to improve fodder security and livestock infrastructure. This advisory promotes convergence under the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission Act, 2025. It identifies 22 permissible works supporting fodder cultivation,",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Centre proposing parity in mineral taxation, states' rights to remain intact: Union Mines Secretary",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/centre-proposing-parity-in-mineral-taxation-states-rights-to-remain-intact-union-mines-secretary/articleshow/135565634.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T08:34:56+00:00",
+      "summary": "Proposed amendments to the Mines and Minerals (Development and Regulation) Act are intended to create tax parity across states. This initiative aims to reduce reliance on imports by fostering local production and processing of critical minerals. The Indian government has introduced significant subsi",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Indian Railways runs 18,000 special trains for festive rush, says Ashwini Vaishnaw",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/indian-railways-runs-18000-special-trains-for-festive-rush-says-ashwini-vaishnaw/videoshow/135560710.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T05:43:01+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "US midterm outcome offers limited relief to India; oil, Russia sanctions remain key risks: Report",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-midterm-outcome-offers-limited-relief-to-india-oil-russia-sanctions-remain-key-risks-report/articleshow/135559680.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T05:05:52+00:00",
+      "summary": "The outcome of the US midterm elections is expected to offer only marginal relief to India. Crude oil prices and potential tariffs on Russian oil purchases will continue to present economic challenges. While a Democratic majority may enhance diplomatic engagement, immediate trade relief seems unlike",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "India's first urban ropeway nears launch in Varanasi, 96% work completed",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/indias-first-urban-ropeway-nears-launch-in-varanasi-96-work-completed/videoshow/135559792.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T05:03:51+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "EAM Jaishankar meets Guyana President, announces $500 million Line of Credit extension",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-enhances-indo-guyanese-relations-with-usd-500-million-loan-to-boost-infrastructure-and-health/articleshow/135558373.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T04:09:00+00:00",
+      "summary": "S Jaishankar recently met with Guyana President Irfaan Ali to review their bilateral cooperation agreements. They discussed the implementation of a UPI-like system and the extension of a USD 500 million Line of Credit. Additionally, agreements were signed for manufacturing projects and Quick Impact ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "EAM Jaishankar discusses economic partnership, CETA with UK’s Burnham on CHOGM sidelines",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-discusses-economic-partnership-ceta-with-uks-burnham-on-chogm-sidelines/articleshow/135555734.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T01:52:53+00:00",
+      "summary": "S Jaishankar met UK Prime Minister Andy Burnham in Antigua and Barbuda for CHOGM 2026 discussions. They focused on strengthening economic partnerships under the Comprehensive Economic and Trade Agreement. Jaishankar emphasized the importance of digital solutions and climate initiatives during a Comm",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "US sanctions India-based couple, companies over alleged support for Iran's Shadow oil fleet",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-sanctions-india-based-couple-companies-over-alleged-support-for-irans-shadow-oil-fleet/articleshow/135555569.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-05T01:41:13+00:00",
+      "summary": "The United States imposed sanctions on Suniel Kumar Sharma and Jaspreet Preeti Shahid for aiding Iran's shadow fleet. Their network allegedly provided fraudulent maritime registrations to help sanctioned vessels transport Iranian petroleum. Several companies linked to the couple also received sancti",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Big factories dominate India's manufacturing output, Annual Survey of Industries shows",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/big-factories-dominate-indias-manufacturing-output/articleshow/135549706.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-04T19:17:52+00:00",
+      "summary": "India's manufacturing sector is characterised by a significant concentration in large factories generating substantial output. Factories producing over ₹500 crore contribute to more than three-fifths of total value added. Smaller factories represent a large number but have minimal output and value c",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "New orders &amp; robust demand lift India's October services growth to 4-month high",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/new-orders-robust-demand-lift-indias-october-services-growth-to-4-month-high/articleshow/135549909.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-04T18:48:40+00:00",
+      "summary": "Growth in India's services sector increased to a four-month high in October due to strong domestic demand and business orders. The HSBC Services Business Activity Index rose to 55.8, reflecting improved business conditions. Conversely, manufacturing activity showed a slight decline, easing to a PMI ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/articleshow/135548791.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-04T18:24:05+00:00",
+      "summary": "The sanctions are part of the Trump administration's \"Operation Economic Outcast,\" which aims to cut off Iran's ability to sell oil to fund the war with the US and Israel. Treasury unveiled the new sanctions a day after Democrats made huge gains in midterm elections, winning control of both houses o",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Over half of street vendors may cut UPI acceptance if 0.4% MDR is introduced: ISB study",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/over-half-of-street-vendors-may-cut-upi-acceptance-if-0-4-mdr-is-introduced-isb-study/articleshow/135546615.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-04T17:42:57+00:00",
+      "summary": "More than 67% of street vendors in India currently accept UPI payments for transactions. A proposed 0.4% merchant discount rate could lead to reduced acceptance among vendors. Concerns arise particularly for vendor-supplier transactions, as many vendors make payments above ₹2,000. A significant port",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Government prepares draft sustainable aviation fuels policy; moots mandatory blending in ATF from 2027",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/government-prepares-draft-sustainable-aviation-fuels-policy-moots-mandatory-blending-in-atf-from-2027/articleshow/135545649.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-04T16:25:27+00:00",
+      "summary": "The civil aviation ministry has circulated the draft National Policy on Sustainable Aviation Fuels which mandates use of only indigenously manufactured SAF to be blended with Aviation Turbine Fuel (ATF).",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Piyush Goyal sets March 2027 deadline for digitisation of DGFT services, aims to end physical visits",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-sets-march-2027-deadline-for-digitisation-of-dgft-services-aims-to-end-physical-visits/articleshow/135542057.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-04T14:30:47+00:00",
+      "summary": "Commerce Minister Piyush Goyal has set March 31, 2027, as the deadline for complete digitisation of DGFT services, including licence, permit and SCOMET approvals. From April 1, businesses will no longer need physical visits to government offices for these services. The move also includes digitising ",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Fireworks on D-St! Sensex zooms 2100 pts intraday: Key reasons behind rally",
+      "url": "https://www.business-standard.com/markets/news/sensex-zooms-1600-pts-intraday-india-m-cap-tops-500-trn-key-reasons-126110500454_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-11-05T08:30:52+00:00",
+      "summary": "VK Vijayakumar of Geojit Investments said that tailwinds for the economy are getting stronger. The strongest positive for the market is the sharp fall in Brent crude prices overnight.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Stock Market LIVE: Sensex surges 2,000 pts, Nifty above 24500; BEML shares drop 4% post Q2 result",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-11-05T09:40:31+00:00",
+      "summary": "Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap and the Nifty SmallCap advanced 1.19 per cent and 1.14 per cent, respectively",
+      "sentiment": "neutral",
+      "reason": ""
+    }
+  ]
+}
