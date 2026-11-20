@@ -1,0 +1,426 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T10:22:35.579241Z",
+  "overall_sentiment": "bullish",
+  "summary": "Indian market sentiment is predominantly bullish, driven by strong portfolio inflows, positive regulatory easing from SEBI, and robust rallies in key domestic indices like the Sensex and Nifty led by banking stocks. Global tech optimism following major IPO debuts and increasing fund manager confidence in India have further bolstered risk appetite. However, investors remain mindful of potential headwinds such as impending RBI rate hikes, rising oil prices, and currency pressures affecting IT sector earnings.",
+  "bullish_count": 20,
+  "bearish_count": 9,
+  "neutral_count": 17,
+  "headline_count": 46,
+  "headlines": [
+    {
+      "title": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T09:36:25+00:00",
+      "summary": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% higher. A steep valuatio",
+      "sentiment": "neutral",
+      "reason": "Global tech stock movements have limited direct impact on Sensex."
+    },
+    {
+      "title": "Sharp rupee appreciation may cut IT firms' FY27 earnings by up to 13%: Report",
+      "url": "https://economictimes.indiatimes.com/markets/forex/sharp-rupee-appreciation-may-cut-it-firms-fy27-earnings-by-up-to-13-report/articleshow/136021296.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T09:36:14+00:00",
+      "summary": "According to a new report, the appreciation of the Indian rupee could lead Indian IT companies to experience reduced earnings. The stronger rupee against foreign currencies may significantly impact profitability, especially for firms with substantial European exposure. As traditional cost-saving str",
+      "sentiment": "bearish",
+      "reason": "Currency appreciation negatively impacts margins for major IT exporters."
+    },
+    {
+      "title": "Sebi plans consultation paper to remove FPI constraints absent in other markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T09:19:53+00:00",
+      "summary": "SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five ",
+      "sentiment": "bullish",
+      "reason": "Regulatory easing encourages foreign portfolio investments and market participation."
+    },
+    {
+      "title": "Indian finance hub eyes dual share model to kickstart public offers: Report",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T07:32:59+00:00",
+      "summary": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigorate equity market activity in GIFT City, which has faced challenges regarding limited primary market",
+      "sentiment": "bullish",
+      "reason": "Structural reforms boost liquidity and encourage domestic public offerings."
+    },
+    {
+      "title": "Who is Roaring Kitty? The man behind GameStop's meme rally",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T06:50:28+00:00",
+      "summary": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 meme-stock rally and sparking fresh interest among retail investors.",
+      "sentiment": "neutral",
+      "reason": "Global bond trends have mixed implications for domestic equities."
+    },
+    {
+      "title": "Treasury rally spills over to Indian bonds, debt supply slows move",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/treasury-rally-spills-over-to-indian-bonds-debt-supply-slows-move/articleshow/136014379.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T05:19:20+00:00",
+      "summary": "Indian government bonds saw slight gains, reflecting the upward trend in US Treasuries. Investors are keeping a close eye on the forthcoming weekly debt auction, pivotal for market movements. With retail inflation and fluctuating oil prices in play, the Reserve Bank of India may entertain further ra",
+      "sentiment": "bullish",
+      "reason": "Strong portfolio inflows signal positive foreign investor sentiment."
+    },
+    {
+      "title": "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T05:08:53+00:00",
+      "summary": "The Indian rupee has shown remarkable strength, breaking the 93 per dollar barrier for the first time since April. This positive shift was fueled by impressive foreign portfolio investments, exceeding $12 billion in November alone. Consequently, the rupee has left its Asian peers behind as it thrive",
+      "sentiment": "bullish",
+      "reason": "Currency strength reflects strong foreign capital inflows into markets."
+    },
+    {
+      "title": "Rupee strengthens 17 paise to 93.15 against US dollar in early trade",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-strengthens-17-paise-to-93-15-against-us-dollar-in-early-trade/articleshow/136013858.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T04:54:03+00:00",
+      "summary": "Rupee gained 17 paise to trade at 93.15 against the US dollar in early trade on Friday. The appreciation was supported by strong foreign fund inflows into the domestic equity markets. Despite higher crude prices and negative stock market sentiment, the currency showed resilience. Analysts expect sli",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Anthropic shares close 17% higher on first day of trading amid protest, arrests outside Nasdaq",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-shares-close-17-higher-on-first-day-of-trading-amid-protest-arrests-outside-nasdaq/videoshow/136013757.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T04:48:04+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "SELLAS Life Sciences shares plunge 19%: What triggered the sharp sell-off?",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sellas-life-sciences-shares-plunge-19-what-triggered-the-sharp-sell-off/slideshow/136013890.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T04:47:39+00:00",
+      "summary": "SELLAS Life Sciences shares plunged nearly 20% after the biotechnology company priced a $150 million public offering at $13 per share, a discount of around 28% to its previous close. The sell-off followed a sharp rally triggered by positive Phase 3 REGAL trial results for its experimental leukemia v",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T03:41:57+00:00",
+      "summary": "Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, u",
+      "sentiment": "bearish",
+      "reason": ""
+    },
+    {
+      "title": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and  Maruti Suzuki feature in list",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T03:31:23+00:00",
+      "summary": "Axis Direct has pinpointed 35 high-potential stocks spanning diverse sectors, including banking, cement, and pharmaceuticals, offering promising buying opportunities. Each stock features a target price indicating anticipated growth in the upcoming months. This recommendation stems from a robust earn",
+      "sentiment": "bullish",
+      "reason": ""
+    },
+    {
+      "title": "Gold Rate Live Updates: Gold, silver prices slide up to 3% on MCX. Buy the dip or wait?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T03:27:40+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "TVS Motor Company among 4 stocks that close above VWAP",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-company-among-4-stocks-that-close-above-vwap/slideshow/136011430.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T03:16:04+00:00",
+      "summary": "Four Nifty 500 stocks, including TVS Motor Company, Polycab India, Wockhardt and Vedanta Iron And Steel, feature in StockEdge's technical scan for stocks closing above their volume-weighted average prices (VWAPs) on November 19. The scan identifies stocks trading above their average traded prices, i",
+      "sentiment": "bullish",
+      "reason": ""
+    },
+    {
+      "title": "Tata Technologies among 4 stocks showing RSI trending up",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-among-4-stocks-showing-rsi-trending-up/slideshow/136011353.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T03:10:26+00:00",
+      "summary": "Four Nifty 500 stocks, including Tata Technologies, Crompton Greaves Consumer Electricals, Physicswallah and Amber Enterprises India, feature in StockEdge's RSI Trending Up scan on November 20. The stocks record RSI values above 50, indicating strengthening price momentum after their previous RSI re",
+      "sentiment": "bullish",
+      "reason": ""
+    },
+    {
+      "title": "Maruti Suzuki among 6 stocks flashing White Marubozu pattern",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-among-6-stocks-flashing-white-marubozu-pattern/slideshow/136011413.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T03:09:49+00:00",
+      "summary": "A White Marubozu is a bullish candlestick pattern in technical analysis that occurs when the opening price is the lowest for a given period and the closing price is the highest.",
+      "sentiment": "bullish",
+      "reason": ""
+    },
+    {
+      "title": "D-Street’s stellar rally faces valuation test as bond allure grows",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-stock-rally-faces-valuation-test-as-bond-allure-grows/articleshow/136010605.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T02:47:28+00:00",
+      "summary": "India's stock market is experiencing valuation challenges due to increasing bond yields that diminish equity attractiveness. The gap between government bond yields and stock earnings yield has widened significantly recently. Analysts suggest that high bond yields could hamper valuations as earnings ",
+      "sentiment": "bearish",
+      "reason": "Rising bond yields threaten equity valuations and market momentum."
+    },
+    {
+      "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns/articleshow/136010331.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T02:19:44+00:00",
+      "summary": "Oil prices see a slight uptick due to worries over supply disruptions triggered by recent Houthi strikes on Riyadh. With crude shipments through the Strait of Hormuz rebounding to pre-war numbers, both Brent and WTI benchmarks are registering declines this week. OPEC+ is set to convene later this mo",
+      "sentiment": "bearish",
+      "reason": "Higher oil prices negatively impact India's import-dependent economy."
+    },
+    {
+      "title": "IMF chief sees more correction in markets due to AI",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/imf-chief-sees-more-correction-in-markets-due-to-ai/articleshow/136010135.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T02:08:53+00:00",
+      "summary": "Kristalina Georgieva, the head of the International Monetary Fund, has voiced her concerns regarding the overzealous excitement surrounding artificial intelligence. She foresees further corrections in AI-driven financial markets, as the Nasdaq 100 index has seen notable declines, causing heightened ",
+      "sentiment": "bearish",
+      "reason": "Global AI correction fears dampen risk appetite in equities."
+    },
+    {
+      "title": "Dollar near 19-month peak as AI jitters sap risk appetite",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-19-month-peak-as-ai-jitters-sap-risk-appetite/articleshow/136009931.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T01:56:39+00:00",
+      "summary": "The dollar hovers close to a 19-month peak as investors flock to safe-haven assets, prompted by concerns over AI trading. Recent US inflation statistics are raising anticipation for a potential December rate hike by the Federal Reserve. Concurrently, Japan reports stable core inflation, which is aff",
+      "sentiment": "bearish",
+      "reason": "Strong dollar causes foreign institutional capital outflows from India."
+    },
+    {
+      "title": "Positive Breakout: These 5 stocks cross above their 200 DMAs",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-cross-above-their-200-dmas/slideshow/136009858.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T01:46:28+00:00",
+      "summary": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
+      "sentiment": "bullish",
+      "reason": "Technical breakout signals strong underlying bullish momentum for stocks."
+    },
+    {
+      "title": "Gold set for worst week since March as rate-hike expectations grow",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T01:45:04+00:00",
+      "summary": "Gold prices plummeted on Friday, recording their most significant weekly dip since March, driven by a strengthening US dollar. This shift caused investors to adjust their forecasts about a possible interest rate increase by the Federal Reserve in December. The President of the Chicago Fed underscore",
+      "sentiment": "bullish",
+      "reason": "Strong surge in Sensex and Nifty indicates robust buying interest."
+    },
+    {
+      "title": "Stock Market Live Updates | Closing Bell: Sensex rockets 898 pts, Nifty ends at 25,800; bank stocks lead gainers",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T01:42:55+00:00",
+      "summary": "",
+      "sentiment": "bearish",
+      "reason": "Asian market selloffs typically create negative spillovers for D-Street."
+    },
+    {
+      "title": "Global Market Today: Asian stocks slide as AI fears trigger selloff",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-as-ai-fears-trigger-selloff/articleshow/136009259.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T01:02:17+00:00",
+      "summary": "MSCI Inc.’s Asia Pacific equities index fell 1%, extending its decline to a seventh straight session. That pushed the MSCI All Country World Index — a key barometer of global stocks — on course for its longest losing streak since September 2023.",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Anthropic shares surge 34% in Nasdaq debut, valuation hits $2 trillion",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T00:57:11+00:00",
+      "summary": "Anthropic made a significant market debut on Nasdaq, with shares opening at $111.50, up from $83. The company raised a remarkable $81.3 billion through the sale of 980 million shares to investors. This listing positions Anthropic as a leader in the AI sector, following its establishment by OpenAI de",
+      "sentiment": "bullish",
+      "reason": "Global tech rally boosts Indian IT sentiment."
+    },
+    {
+      "title": "Anthropic's historic debut to put AI's promise and peril on Wall Street trial",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-historic-debut-to-put-ais-promise-and-peril-on-wall-street-trial/articleshow/136009180.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-20T00:48:29+00:00",
+      "summary": "The strong demand for Anthropic shares amid a broader tech selloff offers hope to a sectorwhere euphoria has somewhat cooled in recent weeks.",
+      "sentiment": "neutral",
+      "reason": "Global AI trends have mixed indirect effects."
+    },
+    {
+      "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T18:13:12+00:00",
+      "summary": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the prese",
+      "sentiment": "neutral",
+      "reason": "Global macro news with limited direct domestic impact."
+    },
+    {
+      "title": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T16:01:26+00:00",
+      "summary": "Amundi has chosen a reserved approach towards French government bonds, amidst climbing yields and worries regarding fiscal management. Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios and shorter maturities. He also highlighted a po",
+      "sentiment": "neutral",
+      "reason": "Broad global commentary lacks direct domestic market triggers."
+    },
+    {
+      "title": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:59:26+00:00",
+      "summary": "Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is al",
+      "sentiment": "bullish",
+      "reason": "Regulatory reforms improve ease of doing business."
+    },
+    {
+      "title": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/six-listed-reit-firms-distribute-rs-3234-cr-in-q2-to-over-5-25-lakh-unitholders/articleshow/135998101.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:57:34+00:00",
+      "summary": "India's six listed Real Estate Investment Trusts distributed Rs 3,234 crore to over 5.25 lakh unitholders. Since their inception, these REITs have distributed over Rs 38,000 crore collectively to investors. The total gross Assets Under Management for the sector exceeded Rs 3.30 lakh crore recently. ",
+      "sentiment": "bullish",
+      "reason": "Strong REIT payouts signal robust commercial real estate."
+    },
+    {
+      "title": "Keystone Realtors to launch Rs 5,000 cr worth housing properties in MMR by Mar: CMD",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-to-launch-rs-5000-cr-worth-housing-properties-in-mmr-by-mar-cmd/articleshow/135997982.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:56:22+00:00",
+      "summary": "Keystone Realtors is set to unveil residential developments valued at Rs 5,000 crore across the Mumbai Metropolitan Region by next March. With sales bookings hitting Rs 2,000 crore in the first half of the fiscal year, the company is optimistic about achieving targets, particularly with anticipated ",
+      "sentiment": "bullish",
+      "reason": "Positive outlook for the residential real estate sector."
+    },
+    {
+      "title": "Signature Global acquires 10-acre land parcels in Gurugram to build realty projects",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-acquires-10-acre-land-parcels-in-gurugram-to-build-realty-projects/articleshow/135997924.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:53:49+00:00",
+      "summary": "Signature Global has successfully acquired two land parcels in Sohna, Gurugram, covering around 10 acres as part of its initiative to bolster its project portfolio. This strategic move complements the company’s focus on expanding its footprint in lucrative regions. Recently, Signature Global also se",
+      "sentiment": "bullish",
+      "reason": "Real estate expansion boosts sector growth prospects."
+    },
+    {
+      "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/walmart-raises-its-outlook-for-the-year-for-the-3rd-time-after-a-solid-quarter/articleshow/135997871.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:52:19+00:00",
+      "summary": "Walmart reported robust third-quarter sales figures, reflecting ongoing consumer demand for affordable shopping solutions. The retailer saw a significant surge in e-commerce sales, rising by 23%. With an emphasis on digital services and advertising, Walmart has effectively preserved its competitive ",
+      "sentiment": "bullish",
+      "reason": "Strong global retail earnings boost broader international market sentiment."
+    },
+    {
+      "title": "Palo Alto's raised sales forecast powers rally in cybersecurity stocks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/palo-altos-raised-sales-forecast-powers-rally-in-cybersecurity-stocks/articleshow/135997775.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:50:59+00:00",
+      "summary": "Palo Alto Networks recently announced its acquisition of AI startup Applied Compute for $4.5 billion. The company raised its annual forecast, which positively influenced various cybersecurity stocks. Investors are increasingly focused on cybersecurity due to the rise of AI-enabled cyberattacks and r",
+      "sentiment": "neutral",
+      "reason": "Palo Alto results impact global tech, having indirect local tech relevance."
+    },
+    {
+      "title": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:17:37+00:00",
+      "summary": "The Nasdaq surged following Anthropic's IPO, which sparked a revival in artificial intelligence investments. Pricing higher than expected, the IPO raked in impressive funds and valuations, positively impacting tech peers like Amazon and Alphabet. Despite some investor caution, notable gains were see",
+      "sentiment": "bullish",
+      "reason": "Global tech rallies improve risk appetite for Indian IT stocks."
+    },
+    {
+      "title": "Fund managers turn overweight on India, first such classification since Jan",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-19T15:02:14+00:00",
+      "summary": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts",
+      "sentiment": "bullish",
+      "reason": "Inflows from overweight fund manager stance drive domestic equity higher."
+    },
+    {
+      "title": "RBI expected to raise rates in December, deliver final hike in February: Report",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-expected-to-raise-rates-in-december-deliver-final-hike-in-february-report/articleshow/136021515.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-20T09:48:50+00:00",
+      "summary": "The Reserve Bank of India is expected to raise its repo rate by 25 basis points to 5.75% in December and take it to 6% in February as inflation breaches its 6% tolerance limit, a Reuters poll showed. Rising energy costs and uneven monsoon rainfall have intensified inflationary pressures.",
+      "sentiment": "bearish",
+      "reason": "Expected rate hikes increase borrowing costs, dampening equity market momentum."
+    },
+    {
+      "title": "India's capital goods market could reach $1.2 trillion by 2047, driven by data centres, chips: Report",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-capital-goods-market-could-reach-1-2-trillion-by-2047-driven-by-data-centres-chips-report/articleshow/136021509.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-20T09:43:53+00:00",
+      "summary": "India's capital goods market could expand to USD 1-1.2 trillion by 2047, driven by rising investments in data centres, semiconductors, defence and clean energy, a CII-BCG report said. Annual capital expenditure across major industries is projected to rise 30% to Rs 32 lakh crore by FY27-29.",
+      "sentiment": "bullish",
+      "reason": "Long-term growth projections boost confidence in capital goods sector stocks."
+    },
+    {
+      "title": "FM Sitharaman holds eighth pre-Budget consultation with labour, employment sector stakeholders",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/fm-sitharaman-holds-eighth-pre-budget-consultation-with-labour-employment-sector-stakeholders/articleshow/136018379.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-20T07:47:18+00:00",
+      "summary": "Finance Minister Nirmala Sitharaman chaired the eighth pre-Budget consultation with employment and labour sector stakeholders on Friday, seeking inputs for the Union Budget 2027-28. The meeting follows consultations with infrastructure, energy, IT, banking and other sectors as the government prepare",
+      "sentiment": "neutral",
+      "reason": "Routine pre-budget consultations have little immediate impact on market direction."
+    },
+    {
+      "title": "India's wheat area set for steepest decline in 26 years as farmers switch crops",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-wheat-area-set-for-steepest-decline-in-26-years-as-farmers-switch-crops/articleshow/136015985.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-20T06:24:43+00:00",
+      "summary": "India is experiencing its most severe decline in wheat acreage in 26 years due to insufficient monsoon rains. Farmers are shifting to less water-intensive crops like chickpeas and rapeseed, which promise better returns. The government's minimal increase in wheat procurement prices has also discourag",
+      "sentiment": "bearish",
+      "reason": "Declining wheat acreage raises inflation fears and pressures agricultural stocks."
+    },
+    {
+      "title": "India, Japan deepen defence, tech, and economic security ties as EAM Jaishankar concludes Tokyo visit",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-japan-deepen-defence-tech-and-economic-security-ties-as-eam-jaishankar-concludes-tokyo-visit/articleshow/136014870.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-20T05:44:31+00:00",
+      "summary": "During the visit, Jaishankar participated in the fourth India-Japan Foreign and Defence Ministerial Dialogue (2+2) alongside Defence Minister Rajnath Singh and their Japanese counterparts, Foreign Minister Toshimitsu Motegi and Defence Minister Shinjiro Koizumi.",
+      "sentiment": "neutral",
+      "reason": "Bilateral ties boost long-term stability but lack immediate market impact."
+    },
+    {
+      "title": "Customs should review classification of bulk Scotch whisky imports: GTRI",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/customs-should-review-classification-of-bulk-scotch-whisky-imports-gtri/articleshow/136000695.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-19T17:38:58+00:00",
+      "summary": "Customs authorities are facing a tariff dispute regarding bulk Scotch whisky imports following the India-UK trade agreement. The classification issue revolves around whether Scotch falls under specific tariff codes for spirits or food preparations. Importers currently classify bulk Scotch under a co",
+      "sentiment": "neutral",
+      "reason": "Trade policy review affects specific importers without broad market direction."
+    },
+    {
+      "title": "Piyush Goyal calls for trusted India-US supply chains, deeper economic cooperation",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-calls-for-trusted-india-us-supply-chains-deeper-economic-cooperation/articleshow/135998771.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-19T16:22:59+00:00",
+      "summary": "Commerce and Industry Minister Piyush Goyal urged India and the US to build trusted supply chains for better collaboration. He highlighted that India's strengths in talent and manufacturing complement America's capital and technology. The minister also encouraged increased partnerships between educa",
+      "sentiment": "neutral",
+      "reason": "Export targets are structural goals rather than immediate market drivers."
+    },
+    {
+      "title": "India needs $430 billion in exports in five months to meet FY27 target: Piyush Goyal",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-needs-430-billion-in-exports-in-five-months-to-meet-fy27-target-piyush-goyal/articleshow/135997642.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-19T15:44:07+00:00",
+      "summary": "India requires approximately USD 430 billion in exports from November to March to meet its ambitious target. By the end of October, the country had achieved 57 percent of its export goal for 2026-27. October exports reached an all-time high of nearly USD 90 billion, which reflects substantial growth",
+      "sentiment": "neutral",
+      "reason": "Global tech wealth shifts have minimal direct impact on Indian indices."
+    },
+    {
+      "title": "Anthropic founders' combined wealth jumps to $166 bn after record IPO",
+      "url": "https://www.business-standard.com/technology/tech-news/anthropic-founders-combined-wealth-jumps-to-166-bn-after-record-ipo-126112000257_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-11-20T04:52:32+00:00",
+      "summary": "Each founder holds an estimated 1.3 per cent stake in the AI company, putting their individual fortunes at about $24 billion after shares closed at $97.17, above the $83 offer price",
+      "sentiment": "bullish",
+      "reason": "Strong market close with significant gains and banking sector leadership."
+    },
+    {
+      "title": "Stock Market Close: Sensex rises for 2nd day, gains 919 pts; Nifty at 25,800; bank shares lead rally",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-20-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126112000118_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-11-20T10:03:07+00:00",
+      "summary": "Sensex Today | Stock Market Highlights, Friday: In the broader markets, the Nifty MidCap 100 rose 0.64 per cent and the Nifty SmallCap 100 fell 0.19 per cent",
+      "sentiment": "neutral",
+      "reason": ""
+    }
+  ]
+}
