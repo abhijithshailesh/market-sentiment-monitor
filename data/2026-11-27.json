@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T11:18:19.188990Z",
+  "overall_sentiment": "mixed",
+  "summary": "Indian stock markets experienced a sharp sell-off today, with the Sensex plunging 989 points and the Nifty slipping below the 25,650 mark, largely pressured by rising Brent crude oil prices and a weakening rupee. However, corporate actions such as multiple bonus share announcements, dividend updates, and positive technical breakouts in select large-cap stocks provided underlying pockets of resilience. While macroeconomic headwinds like inflation concerns and global oil supply risks weighed heavily on investor mood, strong institutional endorsements and upbeat corporate earnings projections helped cushion the broader sentiment.",
+  "bullish_count": 13,
+  "bearish_count": 6,
+  "neutral_count": 13,
+  "headline_count": 32,
+  "headlines": [
+    {
+      "title": "Eurozone bond yields rise as investors return to riskier assets, oil prices rebound",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-investors-return-to-riskier-assets-oil-prices-rebound/articleshow/136218279.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T10:26:25+00:00",
+      "summary": "Eurozone government bond yields edged higher as investors shifted back towards riskier assets and oil prices rebounded amid escalating Middle East tensions. Markets also assessed the European Central Bank's policy outlook, with money markets pricing in two 25-bps rate hikes by June 2027, despite exp",
+      "sentiment": "neutral",
+      "reason": "Global risk-on sentiment balances rising oil price concerns."
+    },
+    {
+      "title": "Rupee rally takes a hit as AI trade revival dents shares, currency sees weekly dip",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rally-takes-a-hit-as-ai-trade-revival-dents-shares-currency-sees-weekly-dip/articleshow/136218142.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T10:23:05+00:00",
+      "summary": "The Indian rupee has seen a downturn against the US dollar, driven by a drop in local stocks and a rise in oil prices. Interestingly, foreign investments in Indian equities have rebounded, reaching approximately $16 billion this month. With growing interest in AI markets, the rupee's stability could",
+      "sentiment": "bearish",
+      "reason": "Weak rupee and AI trade revival pressure equities."
+    },
+    {
+      "title": "Can SpaceX's AI ambitions drive further upside in its stock?",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-spacexs-ai-ambitions-drive-further-upside-in-its-stock/slideshow/136213079.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T06:53:29+00:00",
+      "summary": "SpaceX shares rally on bullish trading signals as Elon Musk expands the company's AI ambitions. Strong revenue growth and a proposed satellite data centre network fuel optimism, despite valuation concerns.",
+      "sentiment": "bearish",
+      "reason": "Higher bond yields and oil inflation weigh on sentiment."
+    },
+    {
+      "title": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T06:10:03+00:00",
+      "summary": "Indian government bonds decreased in early trading due to rising oil prices and cautious investor sentiment. The benchmark 6.94% 2036 bond yield increased significantly amid higher expectations for a rate hike. New Delhi is set to raise 330 billion rupees through a bond sale, contributing to market ",
+      "sentiment": "neutral",
+      "reason": "Global tech stock correction has mixed local tech impact."
+    },
+    {
+      "title": "Nvidia stock plunges 35% from record high: Is it a buying opportunity?",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-plunges-35-from-record-high-is-it-a-buying-opportunity/slideshow/136209377.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:37:47+00:00",
+      "summary": "Nvidia has lost over $2 trillion in market value as shares plunged 35% from record highs amid concerns about the sustainability of AI investments. Despite the correction, strong hyperscaler demand supports growth projections, with revenue expected to rise 75% in 2027. Valuation, regulatory scrutiny ",
+      "sentiment": "bullish",
+      "reason": "Bonus share announcements typically boost investor sentiment."
+    },
+    {
+      "title": "Nestle India Share Price Live Updates: Nestle India Bonus Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-27-nov-2026/liveblog/136209163.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:35:03+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Bonus share news generally attracts positive retail interest."
+    },
+    {
+      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Bonus Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-27-nov-2026/liveblog/136209148.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:34:35+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "ESOP allotment is routine corporate governance activity."
+    },
+    {
+      "title": "Tata Consumer Products Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-updates-27-nov-2026/liveblog/136209138.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:34:21+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": ""
+    },
+    {
+      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Bonus Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-27-nov-2026/liveblog/136209136.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:34:14+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Bonus share announcements generally boost short-term investor sentiment and liquidity."
+    },
+    {
+      "title": "BPCL Share Price Live Updates: BPCL Bonus Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-27-nov-2026/liveblog/136209119.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:33:56+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Bonus share issues typically attract retail buying and positive price action."
+    },
+    {
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank Dividend Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-27-nov-2026/liveblog/136209072.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:33:08+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Dividend announcements indicate strong cash flows, appealing to income investors."
+    },
+    {
+      "title": "Coal India Share Price Live Updates: Coal India Ltd Bonus Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-27-nov-2026/liveblog/136209046.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:32:43+00:00",
+      "summary": "",
+      "sentiment": "bullish",
+      "reason": "Bonus share news often triggers positive momentum for the stock."
+    },
+    {
+      "title": "Divi's Laboratories Share Price Live Updates: Intimation Regarding Change In The Corporate Office Of The Registrar And Share Transfer Agent (RTA) Of The Company",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-27-nov-2026/liveblog/136209042.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:32:38+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Administrative RTA office changes have no direct impact on stock prices."
+    },
+    {
+      "title": "HDFC Bank, SBI, 8 other stocks JPMorgan is bullish on as markets gear up to enter 2027. See full list",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-sbi-8-other-stocks-jpmorgan-is-bullish-on-as-markets-gear-up-to-enter-2027-see-full-list/slideshow/136208713.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T04:05:05+00:00",
+      "summary": "As we step into 2027, Indian equities show promise, buoyed by favorable economic indicators. JPMorgan has rated ten stocks as Overweight, signaling significant growth potential in contenders like HDFC Bank, SBI, and Bajaj Finance. However, market experts advise a cautious and selective investment st",
+      "sentiment": "bullish",
+      "reason": "JPMorgan endorsement instills institutional confidence and drives buying interest."
+    },
+    {
+      "title": "HCL Technologies among 7 stocks showing White Marubozu Pattern",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-technologies-among-7-stocks-showing-white-marubozu-pattern/slideshow/136208369.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T03:45:14+00:00",
+      "summary": "The pattern indicates strong buying momentum during the session, with prices moving steadily higher from the opening level to the close. It is commonly used in technical analysis to identify bullish price momentum.",
+      "sentiment": "bullish",
+      "reason": "White Marubozu pattern indicates strong buying pressure and continuation."
+    },
+    {
+      "title": "Positive breakout: These 4 stocks close above their 200 DMAs",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-4-stocks-close-above-their-200-dmas/slideshow/136208471.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T03:41:45+00:00",
+      "summary": "Four Nifty 500 stocks, including TD Power Systems, LTM, Computer Age Management Services and Infosys, gained over 3% and closed above their respective 200-day moving averages on November 26, according to StockEdge data. The technical indicator is widely tracked by traders to assess the broader trend",
+      "sentiment": "bullish",
+      "reason": "Breaking above 200 DMAs signals a bullish long-term trend reversal."
+    },
+    {
+      "title": "Sun TV Network among 4 stocks closing above VWAP",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sun-tv-network-among-4-stocks-closing-above-vwap/slideshow/136208195.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T03:31:32+00:00",
+      "summary": "Four Nifty500 stocks closed more than 2% above their respective volume-weighted average prices on November 26, according to StockEdge’s technical scan, indicating that they ended the session above their average traded levels.",
+      "sentiment": "bullish",
+      "reason": "Positive technical momentum indicates underlying buying strength."
+    },
+    {
+      "title": "Gold jumps 3%, silver hits 6% upper circuit on MCX as bullion rebounds from multi-month lows: Gold Silver Rates Live Updates",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-27th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136208041.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T03:29:30+00:00",
+      "summary": "",
+      "sentiment": "neutral",
+      "reason": "Commodity price movements have mixed sector impacts."
+    },
+    {
+      "title": "Bharat Coking Coal among 5 stocks showing RSI trending up",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-among-5-stocks-showing-rsi-trending-up/slideshow/136208088.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T03:24:46+00:00",
+      "summary": "Five Nifty500 stocks that gained over 5% on November 27 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
+      "sentiment": "bullish",
+      "reason": "Indicates strong global liquidity and financial stability."
+    },
+    {
+      "title": "Dubai seals deal for $159 billion Islamic banking giant",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dubai-seals-deal-for-159-billion-islamic-banking-giant/articleshow/136206936.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T02:12:29+00:00",
+      "summary": "Dubai Islamic Bank PJSC will acquire Emirates Islamic Bank PJSC in an all-stock deal to boost its banking presence. The merger will result in the formation of a strong Islamic banking group with substantial assets. This transaction indicates a strategic move to combine corporate and retail banking s",
+      "sentiment": "neutral",
+      "reason": "Global macroeconomic news with limited direct domestic impact."
+    },
+    {
+      "title": "Brent trades near month's high as Mideast conflict threatens supply",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply/articleshow/136207059.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T02:07:52+00:00",
+      "summary": "Brent crude futures are close to this month's high due to ongoing conflicts affecting oil exports. Tanker attacks in the Strait of Hormuz and assaults on Saudi energy infrastructure have raised concerns. While Brent crude has seen a slight decline recently, analysts predict it could surpass $100 per",
+      "sentiment": "bearish",
+      "reason": "Stronger dollar generally triggers capital outflows from India."
+    },
+    {
+      "title": "Dollar lingers near 22-month peak as AI worries simmer",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-lingers-near-22-month-peak-as-ai-worries-simmer/articleshow/136207046.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T02:06:22+00:00",
+      "summary": "The US dollar is stable after recent fluctuations, as traders look to equity markets for guidance. This week, the dollar index reached a 22-month peak before retreating slightly. Anticipation of a Federal Reserve interest rate hike is supporting the currency's value. Analysts suggest that the trajec",
+      "sentiment": "neutral",
+      "reason": "Precious metals steady as investors await global cues."
+    },
+    {
+      "title": "Gold steady, heads for weekly gain as markets await Fed signals",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-heads-for-weekly-gain-as-markets-await-fed-signals/articleshow/136206965.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T02:05:41+00:00",
+      "summary": "Gold prices have remained steady as investors closely monitor anticipated guidance from the US Federal Reserve regarding interest rates. Current forecasts suggest a possible rate hike next month, which may influence gold's market attractiveness. October saw a slight uptick in China's gold imports th",
+      "sentiment": "neutral",
+      "reason": "Concerns exist, but direct market impact remains unclear."
+    },
+    {
+      "title": "Gold Prices Fall: Is India’s ₹23 Lakh Crore Gold Loan Market at Risk? | The Morning Brief Decode",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-is-indias-23-lakh-crore-gold-loan-market-at-risk-the-morning-brief-decode/videoshow/136206854.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T01:53:18+00:00",
+      "summary": "",
+      "sentiment": "bearish",
+      "reason": "Potential asset devaluation poses risks to NBFCs and lenders."
+    },
+    {
+      "title": "Stock Market Highlights: Sensex sinks 989 pts, Nifty ends near 25,600; Bajaj Auto, HCL Tech drop 3% each",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026/liveblog/136206762.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T01:39:08+00:00",
+      "summary": "",
+      "sentiment": "bearish",
+      "reason": "Sensex and Nifty tanked significantly with major stock drops."
+    },
+    {
+      "title": "Global Market Today: Asian stocks rise for second day, crude oil gains",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-for-second-day-crude-oil-gains/articleshow/136206178.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-27T00:50:49+00:00",
+      "summary": "The regional MSCI Asia Pacific equities gauge rose 0.6% on Friday, advancing for a second consecutive day. Gauges in Japan, Australia and South Korea climbed.",
+      "sentiment": "bullish",
+      "reason": "Positive Asian markets support overall global sentiment."
+    },
+    {
+      "title": "SC asks HDFC Bank, three others to ok staff prosecution",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sc-asks-hdfc-bank-three-others-to-ok-staff-prosecution/articleshow/136206787.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-26T20:02:16+00:00",
+      "summary": "The Supreme Court has ordered HDFC Bank, ICICI Bank, Sammaan Capital, and PNB Housing Finance to grant prosecution sanctions. This order pertains to allegations concerning fraudulent subvention schemes involving real estate developers and financial institutions. Homebuyers were subjected to loan rec",
+      "sentiment": "neutral",
+      "reason": "Legal directive specific to HDFC Bank and others."
+    },
+    {
+      "title": "Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-jv-buys-10-acre-land-in-chennai-for-senior-living-project-eyes-rs-1100-cr-revenue/articleshow/136197134.cms",
+      "source": "Economic Times - Markets",
+      "published_at": "2026-11-26T15:51:45+00:00",
+      "summary": "Ashiana Housing Ltd recently revealed its acquisition of nearly 10 acres in Chennai aimed at a senior living initiative. In collaboration with Arihant Foundations, the project estimates a saleable area of around 9 lakh square feet, with an anticipated revenue potential of Rs 1,100 crore. The land pu",
+      "sentiment": "bullish",
+      "reason": "Strong revenue projection and expansion for Ashiana Housing."
+    },
+    {
+      "title": "IORA nations must enhance collaboration: EAM Jaishankar",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/iora-nations-urged-to-strengthen-collaboration-amid-geopolitical-shifts-by-eam-jaishankar/articleshow/136215650.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-27T08:51:28+00:00",
+      "summary": "External Affairs Minister S Jaishankar highlighted the significance of the Indian Ocean for global trade and energy security. He stated that regional cooperation is vital to address the shared challenges faced by littoral states. Jaishankar emphasized that IORA must adapt to geopolitical changes and",
+      "sentiment": "neutral",
+      "reason": "Geopolitical news with no direct Indian market impact."
+    },
+    {
+      "title": "Vietnam has made very strong commitments in trade talks with US, PM says",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/vietnam-us-trade-talks-strong-commitments-lower-tariffs-deal/articleshow/136207839.cms",
+      "source": "Economic Times - Economy",
+      "published_at": "2026-11-27T03:13:43+00:00",
+      "summary": "Vietnam is in advanced negotiations with the United States to finalize a trade deal. Prime Minister Le Minh Hung announced that tariffs would be significantly lower than earlier proposals. The final details of the agreement are being worked out and should be concluded soon. These commitments indicat",
+      "sentiment": "neutral",
+      "reason": "Macroeconomic observation regarding India's trade policy utilization."
+    },
+    {
+      "title": "Only 20-30% of eligible Indian exports use FTA benefits: RBI Governor",
+      "url": "https://www.business-standard.com/economy/news/india-exports-fta-benefits-msmes-sanjay-malhotra-rbi-126112700520_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-11-27T08:02:21+00:00",
+      "summary": "Sanjay Malhotra urged MSMEs to look beyond domestic markets, saying better use of trade agreements, higher productivity and formalisation could support the sector's next phase of growth",
+      "sentiment": "neutral",
+      "reason": "Broader trade developments concerning Vietnam and the US."
+    },
+    {
+      "title": "Stock Market Close: Sensex tanks 989pts, Nifty below 25,650 as Brent tops $97; metal pack outshines",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-share-price-ipo-today-126112700100_1.html",
+      "source": "Business Standard",
+      "published_at": "2026-11-27T10:18:16+00:00",
+      "summary": "Sensex Today | Stock Market Highlights, Friday: In the broader markets, the Nifty MidCap 100 and the Nifty SmallCap 100 rose 0.10 per cent and 0.56 per cent, respectively",
+      "sentiment": "bearish",
+      "reason": "Sharp market sell-off driven by rising crude oil prices."
+    }
+  ]
+}
